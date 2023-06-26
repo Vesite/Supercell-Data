@@ -1,0 +1,32 @@
+Name,Level,Cost,Time,Time (hours),Cost/h
+Elixir Collector,1,150,10s,0.002777777777777778,54000
+Elixir Collector,2,300,1m,0.016666666666666666,18000
+Elixir Collector,3,700,4m,0.06666666666666667,10500
+Elixir Collector,4,1400,10m,0.16666666666666666,8400
+Elixir Collector,5,3000,40m,0.6666666666666666,4500
+Elixir Collector,6,7000,3h,3.0,2333
+Elixir Collector,7,14000,6h,6.0,2333
+Elixir Collector,8,28000,8h,8.0,3500
+Elixir Collector,9,56000,10h,10.0,5600
+Elixir Collector,10,75000,12h,12.0,6250
+Elixir Collector,11,100000,16h,16.0,6250
+Elixir Collector,12,200000,20h,20.0,10000
+Elixir Collector,13,400000,1d 16h,40.0,10000
+Elixir Collector,14,800000,3d 8h,80.0,10000
+Elixir Collector,15,1200000,6d,144.0,8333
+Elixir Storage,1,300,10s,0.002777777777777778,108000
+Elixir Storage,2,750,5m,0.08333333333333333,9000
+Elixir Storage,3,1500,20m,0.3333333333333333,4500
+Elixir Storage,4,3000,1h,1.0,3000
+Elixir Storage,5,6000,2h,2.0,3000
+Elixir Storage,6,12000,3h,3.0,4000
+Elixir Storage,7,25000,4h,4.0,6250
+Elixir Storage,8,50000,5h,5.0,10000
+Elixir Storage,9,100000,8h,8.0,12500
+Elixir Storage,10,250000,12h,12.0,20833
+Elixir Storage,11,500000,16h,16.0,31250
+Elixir Storage,12,1000000,2d,48.0,20833
+Elixir Storage,13,1800000,3d 12h,84.0,21429
+Elixir Storage,14,2800000,5d 12h,132.0,21212
+Elixir Storage,15,5500000,11d 6h,270.0,20370
+Elixir Storage,16,6500000,12d,288.0,22569

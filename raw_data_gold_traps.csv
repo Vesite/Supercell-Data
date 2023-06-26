@@ -1,0 +1,47 @@
+Bomb,1,400,None
+Bomb,2,"1,000",6m
+Bomb,3,"10,000",2h
+Bomb,4,"100,000",8h
+Bomb,5,"300,000",18h
+Bomb,6,"500,000",1d 12h
+Bomb,7,"850,000",2d 12h
+Bomb,8,"1,400,000",2d 18h
+Bomb,9,"2,400,000",3d 12h
+Bomb,10,"5,500,000",7d 12h
+Bomb,11,"8,000,000",8d
+Spring Trap,1,"2,000",None
+Spring Trap,2,"300,000",12h
+Spring Trap,3,"500,000",18h
+Spring Trap,4,"800,000",1d 12h
+Spring Trap,5,"1,000,000",3d
+Giant Bomb,1,"12,500",None
+Giant Bomb,2,"75,000",6h
+Giant Bomb,3,"600,000",1d
+Giant Bomb,4,"2,000,000",3d
+Giant Bomb,5,"2,500,000",3d 12h
+Giant Bomb,6,"3,000,000",4d 6h
+Giant Bomb,7,"4,200,000",5d 12h
+Giant Bomb,8,"8,500,000",10d 12h
+Giant Bomb,9,"10,500,000",12d
+Air Bomb,1,"4,000",None
+Air Bomb,2,"20,000",4h
+Air Bomb,3,"200,000",12h
+Air Bomb,4,"600,000",1d
+Air Bomb,5,"1,400,000",2d
+Air Bomb,6,"1,900,000",2d 12h
+Air Bomb,7,"2,400,000",3d 12h
+Air Bomb,8,"3,000,000",4d 6h
+Air Bomb,9,"6,500,000",8d 12h
+Air Bomb,10,"9,000,000",9d
+Seeking Air Mine,1,"15,000",None
+Seeking Air Mine,2,"1,000,000",1d
+Seeking Air Mine,3,"2,100,000",3d
+Seeking Air Mine,4,"3,600,000",4d 6h
+Seeking Air Mine,5,"10,000,000",10h
+Skeleton Trap,1,"6,000",None
+Skeleton Trap,2,"450,000",5h
+Skeleton Trap,3,"900,000",20h
+Skeleton Trap,4,"1,500,000",1d 16h
+Tornado Trap,1,"1,800,000",None
+Tornado Trap,2,"2,800,000",2d
+Tornado Trap,3,"3,500,000",3d

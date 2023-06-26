@@ -1,0 +1,173 @@
+Cannon,1,250,10s
+Cannon,2,"1,000",2m
+Cannon,3,"4,000",10m
+Cannon,4,"16,000",45m
+Cannon,5,"50,000",2h
+Cannon,6,"100,000",4h
+Cannon,7,"200,000",8h
+Cannon,8,"300,000",10h
+Cannon,9,"500,000",12h
+Cannon,10,"700,000",18h
+Cannon,11,"1,000,000",1d
+Cannon,12,"1,200,000",1d 6h
+Cannon,13,"1,700,000",2d 6h
+Cannon,14,"2,100,000",3d
+Cannon,15,"3,200,000",4d 6h
+Cannon,16,"4,400,000",5d 12h
+Cannon,17,"5,600,000",7d 12h
+Cannon,18,"6,500,000",9d
+Cannon,19,"7,800,000",9d 12h
+Cannon,20,"16,500,000",16d 6h
+Cannon,21,"18,000,000",17d
+Archer Tower,1,"1,000",1m
+Archer Tower,2,"2,000",15m
+Archer Tower,3,"5,000",45m
+Archer Tower,4,"20,000",3h
+Archer Tower,5,"80,000",5h
+Archer Tower,6,"180,000",8h
+Archer Tower,7,"360,000",10h
+Archer Tower,8,"600,000",12h
+Archer Tower,9,"800,000",14h
+Archer Tower,10,"1,000,000",18h
+Archer Tower,11,"1,200,000",1d
+Archer Tower,12,"1,500,000",1d 6h
+Archer Tower,13,"2,000,000",2d 6h
+Archer Tower,14,"2,500,000",3d 12h
+Archer Tower,15,"3,500,000",5d
+Archer Tower,16,"4,700,000",5d 12h
+Archer Tower,17,"6,100,000",7d 12h
+Archer Tower,18,"6,800,000",9d
+Archer Tower,19,"8,000,000",9d 12h
+Archer Tower,20,"16,500,000",16d 6h
+Archer Tower,21,"18,500,000",17d
+Mortar,1,"5,000",3h
+Mortar,2,"25,000",6h
+Mortar,3,"100,000",12h
+Mortar,4,"200,000",1d
+Mortar,5,"400,000",2d
+Mortar,6,"750,000",2d 12h
+Mortar,7,"1,500,000",3d
+Mortar,8,"2,500,000",3d 6h
+Mortar,9,"3,500,000",4d 6h
+Mortar,10,"4,800,000",5d 12h
+Mortar,11,"5,800,000",7d 12h
+Mortar,12,"6,500,000",8d 18h
+Mortar,13,"8,200,000",9d 12h
+Mortar,14,"16,500,000",17d
+Mortar,15,"19,000,000",18d
+Air Defence,1,"22,000",3h
+Air Defence,2,"90,000",12h
+Air Defence,3,"270,000",16h
+Air Defence,4,"500,000",1d
+Air Defence,5,"1,000,000",1d 12h
+Air Defence,6,"1,350,000",2d
+Air Defence,7,"1,750,000",3d
+Air Defence,8,"3,000,000",4d 6h
+Air Defence,9,"4,200,000",6d 6h
+Air Defence,10,"5,800,000",8d 18h
+Air Defence,11,"8,400,000",9d 12h
+Air Defence,12,"17,000,000",17d
+Air Defence,13,"19,500,000",18d
+Wizard Tower,1,"120,000",3h
+Wizard Tower,2,"220,000",8h
+Wizard Tower,3,"420,000",12h
+Wizard Tower,4,"720,000",18h
+Wizard Tower,5,"920,000",1d
+Wizard Tower,6,"1,200,000",1d 12h
+Wizard Tower,7,"2,200,000",2d
+Wizard Tower,8,"2,700,000",3d
+Wizard Tower,9,"3,700,000",5d 6h
+Wizard Tower,10,"5,200,000",6d 12h
+Wizard Tower,11,"7,200,000",9d
+Wizard Tower,12,"9,200,000",9d 12h
+Wizard Tower,13,"10,200,000",10d
+Wizard Tower,14,"17,200,000",17d
+Wizard Tower,15,"19,200,000",18d
+Air Sweeper,1,"400,000",6h
+Air Sweeper,2,"700,000",12h
+Air Sweeper,3,"1,100,000",18h
+Air Sweeper,4,"1,500,000",1d
+Air Sweeper,5,"2,000,000",2d
+Air Sweeper,6,"2,500,000",2d 12h
+Air Sweeper,7,"4,200,000",3d 12h
+Hidden Tesla,1,"300,000",2h
+Hidden Tesla,2,"450,000",5h
+Hidden Tesla,3,"650,000",10h
+Hidden Tesla,4,"850,000",18h
+Hidden Tesla,5,"1,100,000",1d
+Hidden Tesla,6,"1,300,000",2d
+Hidden Tesla,7,"1,800,000",3d
+Hidden Tesla,8,"2,100,000",4d 6h
+Hidden Tesla,9,"3,100,000",5d 12h
+Hidden Tesla,10,"5,000,000",8d 18h
+Hidden Tesla,11,"7,700,000",9d 12h
+Hidden Tesla,12,"9,000,000",10d
+Hidden Tesla,13,"17,100,000",17d
+Hidden Tesla,14,"19,100,000",18d
+Bomb Tower,1,"800,000",1d
+Bomb Tower,2,"1,200,000",1d 12h
+Bomb Tower,3,"1,800,000",2d
+Bomb Tower,4,"2,600,000",3d 12h
+Bomb Tower,5,"3,500,000",4d 6h
+Bomb Tower,6,"5,000,000",6d 6h
+Bomb Tower,7,"6,300,000",9d
+Bomb Tower,8,"8,800,000",10d
+Bomb Tower,9,"17,500,000",17d
+Bomb Tower,10,"20,000,000",18d
+A,1,"1,000,000",2d
+A,2,"1,600,000",4d
+A,3,"2,400,000",5d
+A,4,"3,400,000",5d 6h
+A,5,"4,900,000",6d 6h
+A,6,"6,800,000",9d
+A,7,"8,300,000",9d 12h
+A,8,"10,300,000",10d
+A,9,"17,400,000",18d
+A,10,"20,000,000",19d
+Inferno Tower,1,"1,700,000",2d 12h
+Inferno Tower,2,"2,500,000",3d 6h
+Inferno Tower,3,"3,800,000",4d 6h
+Inferno Tower,4,"4,200,000",5d
+Inferno Tower,5,"5,200,000",6d 6h
+Inferno Tower,6,"6,500,000",9d
+Inferno Tower,7,"10,500,000",11d
+Inferno Tower,8,"18,000,000",18d
+Inferno Tower,9,"21,000,000",19d
+Eagle Artillery,1,"6,000,000",5d
+Eagle Artillery,2,"8,000,000",8d 12h
+Eagle Artillery,3,"10,000,000",10d
+Eagle Artillery,4,"13,000,000",13d
+Eagle Artillery,5,"19,000,000",19d
+Eagle Artillery,6,"21,500,000",20d
+Scattershot,1,"11,000,000",11d
+Scattershot,2,"12,000,000",12d
+Scattershot,3,"18,000,000",18d
+Scattershot,4,"21,300,000",19d 12h
+Builder's Hut,1,None,None
+Builder's Hut,2,"9,000,000",9d 12h
+Builder's Hut,3,"12,000,000",11d 12h
+Builder's Hut,4,"14,500,000",13d 6h
+Builder's Hut,5,"17,000,000",14d 12h
+Spell Tower,1,"14,000,000",14d
+Spell Tower,2,"16,000,000",16d
+Spell Tower,3,"18,000,000",18d
+Giga Telsa (TH12),1,None,None
+Giga Telsa (TH12),2,"3,000,000",1d 12h
+Giga Telsa (TH12),3,"4,200,000",2d 18h
+Giga Telsa (TH12),4,"5,600,000",4d 6h
+Giga Telsa (TH12),5,"7,000,000",5d 12h
+Giga Inferno (TH13),1,None,None
+Giga Inferno (TH13),2,"7,500,000",4d 12h
+Giga Inferno (TH13),3,"9,000,000",6d
+Giga Inferno (TH13),4,"11,200,000",6d 12h
+Giga Inferno (TH13),5,"13,500,000",8d 6h
+Giga Inferno (TH14),1,None,None
+Giga Inferno (TH14),2,"8,500,000",8d 12h
+Giga Inferno (TH14),3,"10,500,000",10d 12h
+Giga Inferno (TH14),4,"12,300,000",12d 6h
+Giga Inferno (TH14),5,"14,200,000",13d 6h
+Giga Inferno (TH15),1,None,None
+Giga Inferno (TH15),2,"10,000,000",9d
+Giga Inferno (TH15),3,"12,000,000",11d
+Giga Inferno (TH15),4,"14,000,000",13d
+Giga Inferno (TH15),5,"16,000,000",14d

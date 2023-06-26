@@ -1,0 +1,48 @@
+Name,Level,Cost,Time,Time (hours),Cost/h
+Bomb,1,400,-,-,-
+Bomb,2,1000,6m,0.1,10000
+Bomb,3,10000,2h,2.0,5000
+Bomb,4,100000,8h,8.0,12500
+Bomb,5,300000,18h,18.0,16667
+Bomb,6,500000,1d 12h,36.0,13889
+Bomb,7,850000,2d 12h,60.0,14167
+Bomb,8,1400000,2d 18h,66.0,21212
+Bomb,9,2400000,3d 12h,84.0,28571
+Bomb,10,5500000,7d 12h,180.0,30556
+Bomb,11,8000000,8d,192.0,41667
+Spring Trap,1,2000,-,-,-
+Spring Trap,2,300000,12h,12.0,25000
+Spring Trap,3,500000,18h,18.0,27778
+Spring Trap,4,800000,1d 12h,36.0,22222
+Spring Trap,5,1000000,3d,72.0,13889
+Giant Bomb,1,12500,-,-,-
+Giant Bomb,2,75000,6h,6.0,12500
+Giant Bomb,3,600000,1d,24.0,25000
+Giant Bomb,4,2000000,3d,72.0,27778
+Giant Bomb,5,2500000,3d 12h,84.0,29762
+Giant Bomb,6,3000000,4d 6h,102.0,29412
+Giant Bomb,7,4200000,5d 12h,132.0,31818
+Giant Bomb,8,8500000,10d 12h,252.0,33730
+Giant Bomb,9,10500000,12d,288.0,36458
+Air Bomb,1,4000,-,-,-
+Air Bomb,2,20000,4h,4.0,5000
+Air Bomb,3,200000,12h,12.0,16667
+Air Bomb,4,600000,1d,24.0,25000
+Air Bomb,5,1400000,2d,48.0,29167
+Air Bomb,6,1900000,2d 12h,60.0,31667
+Air Bomb,7,2400000,3d 12h,84.0,28571
+Air Bomb,8,3000000,4d 6h,102.0,29412
+Air Bomb,9,6500000,8d 12h,204.0,31863
+Air Bomb,10,9000000,9d,216.0,41667
+Seeking Air Mine,1,15000,-,-,-
+Seeking Air Mine,2,1000000,1d,24.0,41667
+Seeking Air Mine,3,2100000,3d,72.0,29167
+Seeking Air Mine,4,3600000,4d 6h,102.0,35294
+Seeking Air Mine,5,10000000,10d,240.0,41667
+Skeleton Trap,1,6000,-,-,-
+Skeleton Trap,2,450000,5h,5.0,90000
+Skeleton Trap,3,900000,20h,20.0,45000
+Skeleton Trap,4,1500000,1d 16h,40.0,37500
+Tornado Trap,1,1800000,-,-,-
+Tornado Trap,2,2800000,2d,48.0,58333
+Tornado Trap,3,3500000,3d,72.0,48611

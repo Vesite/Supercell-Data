@@ -1,0 +1,31 @@
+Elixir Collector,1,150,10s
+Elixir Collector,2,300,1m
+Elixir Collector,3,700,4m
+Elixir Collector,4,"1,400",10m
+Elixir Collector,5,"3,000",40m
+Elixir Collector,6,"7,000",3h
+Elixir Collector,7,"14,000",6h
+Elixir Collector,8,"28,000",8h
+Elixir Collector,9,"56,000",10h
+Elixir Collector,10,"75,000",12h
+Elixir Collector,11,"100,000",16h
+Elixir Collector,12,"200,000",20h
+Elixir Collector,13,"400,000",1d 16h
+Elixir Collector,14,"800,000",3d 8h
+Elixir Collector,15,"1,200,000",6d
+Elixir Storage,1,300,10s
+Elixir Storage,2,750,5m
+Elixir Storage,3,"1,500",20m
+Elixir Storage,4,"3,000",1h
+Elixir Storage,5,"6,000",2h
+Elixir Storage,6,"12,000",3h
+Elixir Storage,7,"25,000",4h
+Elixir Storage,8,"50,000",5h
+Elixir Storage,9,"100,000",8h
+Elixir Storage,10,"250,000",12h
+Elixir Storage,11,"500,000",16h
+Elixir Storage,12,"1,000,000",2d
+Elixir Storage,13,"1,800,000",3d 12h
+Elixir Storage,14,"2,800,000",5d 12h
+Elixir Storage,15,"5,500,000",11d 6h
+Elixir Storage,16,"6,500,000",12d
