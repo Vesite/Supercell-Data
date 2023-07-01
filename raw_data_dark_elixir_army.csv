@@ -1,0 +1,67 @@
+Minion,2,"3,000",8h
+Minion,3,"7,000",16h
+Minion,4,"15,000",1d
+Minion,5,"25,000",2d
+Minion,6,"35,000",3d 12h
+Minion,7,"63,000",5d
+Minion,8,"95,000",9d
+Minion,9,"150,000",10d
+Minion,10,"285,000",15d 12h
+Minion,11,"310,000",16d 12h
+Hog Rider,2,"5,000",10h
+Hog Rider,3,"9,000",20h
+Hog Rider,4,"16,000",1d 6h
+Hog Rider,5,"30,000",2d
+Hog Rider,6,"43,000",3d 12h
+Hog Rider,7,"70,000",5d 6h
+Hog Rider,8,"95,000",7d
+Hog Rider,9,"150,000",9d
+Hog Rider,10,"175,000",10d
+Hog Rider,11,"305,000",16d 6h
+Valkyrie,2,"8,000",1d
+Valkyrie,3,"12,000",2d
+Valkyrie,4,"25,000",3d
+Valkyrie,5,"38,000",4d 6h
+Valkyrie,6,"63,000",5d 6h
+Valkyrie,7,"110,000",7d
+Valkyrie,8,"155,000",10d
+Valkyrie,9,"295,000",16d 6h
+Valkyrie,10,"320,000",17d
+Golem,2,"10,000",1d 6h
+Golem,3,"20,000",2d 12h
+Golem,4,"30,000",3d 18h
+Golem,5,"43,000",4d 6h
+Golem,6,"53,000",5d
+Golem,7,"77,000",5d 12h
+Golem,8,"100,000",6d 12h
+Golem,9,"125,000",9d
+Golem,10,"160,000",10d
+Golem,11,"300,000",16d
+Golem,12,"330,000",17d
+Witch,2,"50,000",4d
+Witch,3,"68,000",4d 18h
+Witch,4,"90,000",6d 18h
+Witch,5,"125,000",9d
+Witch,6,"340,000",17d 12h
+Lava Hound,2,"35,000",2d 12h
+Lava Hound,3,"50,000",4d 6h
+Lava Hound,4,"85,000",6d 6h
+Lava Hound,5,"120,000",9d
+Lava Hound,6,"160,000",9d 12h
+Bowler,2,"65,000",3d 12h
+Bowler,3,"88,000",5d
+Bowler,4,"125,000",7d 12h
+Bowler,5,"170,000",9d
+Bowler,6,"305,000",16d 18h
+Bowler,7,"335,000",17d 12h
+Ice Golem,2,"55,000",2d 20h
+Ice Golem,3,"85,000",5d
+Ice Golem,4,"100,000",6d 12h
+Ice Golem,5,"125,000",8d
+Ice Golem,6,"305,000",16d
+Ice Golem,7,"335,000",17d
+Headhunter,2,"115,000",9d
+Headhunter,3,"145,000",10d
+Apprentice Warden,2,"180,000",9d
+Apprentice Warden,3,"315,000",16d 18h
+Apprentice Warden,4,"340,000",17d 12h

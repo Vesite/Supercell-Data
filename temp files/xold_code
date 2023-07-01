@@ -1,0 +1,173 @@
+
+
+
+
+
+# find all the rows in the table
+rows = upgrade_costs.find_all('tr')
+# iterate over each row
+for row in rows:
+    # find all the cells in the row
+    cells = row.find_all('td')
+    
+    # extract the data from each cell
+    data = [cell.get_text() for cell in cells]
+    
+    # print the extracted data
+    print(data)
+
+
+
+# Iterate over each row
+for row in rows:
+    # Find all the cells in the row
+    cells = row.find_all('td')
+    
+    # Extract the data from each cell
+    data = [cell.get_text() for cell in cells]
+    
+    # Print the extracted data
+    print(data)
+
+
+
+
+
+gold_pass_bcost = None
+gold_pass_btime = None
+
+for cell in cells:
+    if 'class="GoldPass bCost"' in cell:
+        gold_pass_bcost = cell
+    elif 'class="GoldPass bTime"' in cell:
+        gold_pass_btime = cell
+
+data.append([gold_pass_bcost, gold_pass_btime])
+
+
+
+
+for cell in cells:
+    if cell.get("class_") == "GoldPass bCost":
+        upg_cost = cell.get_text()
+    elif cell.get("class") == "GoldPass bTime":
+        upg_cost = cell.get_text()
+
+
+
+
+
+table = []
+
+row_list = soup.find_all("tr")
+#print(row_list)
+
+for row in row_list:
+    cells = row.find_all("td")
+    for cell in cells:
+        if cell.get("class") == "GoldPass rCost" or cell.get('class') == "GoldPass bCost":
+            # Save than "row" to the list of list (table)
+            row_data = cell.get_text()
+            table.append(row_data)
+            
+print(table)
+
+
+
+
+
+
+
+
+
+
+
+
+# Diddnt work perfectly not sure why
+td_list = [] 
+
+row_list = soup.find_all("tr") # row_list = All <td> objects in the HTML Code
+for row in row_list:
+    cells = row.findChildren("td", recursive=False) # Check all the elements in the row (cells)
+    for cell in cells:
+        #print("-")
+        #print(cell)
+        #print("-")
+        # Check if any of the cells have (class == "GoldPass bCost")
+        if cell.has_attr("class"):# and ("GoldPass" in cell["class"]):
+            print("Yes")
+            if ('GoldPass' in cell["class"]): # No idea why it finds nothing here when i put "'GoldPass rCost'"
+                td_list.append(row) # Then this is a relevant row for our data table
+                print("Added")
+            #if ("GoldPass" in cell["class"]):
+            #    td_list.append(row) # Then this is a relevant row for our data table
+
+print(td_list)
+
+
+table_data = []
+    for element in relevant_row_info_list:
+        r_cost_start = element.find('GoldPass rCost">') + len('GoldPass rCost">')
+        r_cost_end = element.find('</td>', r_cost_start)
+        r_cost = element[r_cost_start:r_cost_end].strip()
+
+        r_time_start = element.find('GoldPass rTime">') + len('GoldPass rTime">')
+        r_time_end = element.find('</td>', r_time_start)
+        r_time = element[r_time_start:r_time_end].strip()
+
+        table_data.append((r_cost, r_time))
+
+    print(table_data)
+
+td_list = soup.select('td.GoldPass.rCost')
+    for elem in td_list:
+        print(elem)
+    
+
+
+
+
+
+
+
+    """
+    if army == True:
+        strings_to_check = ["wikitable floatheader row-highlight", "wikitable row-highlight floatheader", "wikitable troop-statistics-table"]
+        table = soup.find(class_=strings_to_check)
+        for string in strings_to_check:
+            table = soup.find(class_=string)
+            if table is not None:
+                upgrade_data = basic_data_from_table(table, name)
+    else:
+        # find the "table", if it is "None" that means we didn't find the info we are checking for from the url, and it will crash
+        if url == "https://clashofclans.fandom.com/wiki/Town_Hall":
+            table_list = soup.find_all('table')
+            if len(table_list) >= 2:
+                table = table_list[6] # VERY spesific way to do this one url...
+        elif url == "https://clashofclans.fandom.com/wiki/Barbarian_King": #("class=wikitable hero-statistics-table floatheader row-highlight")
+            table = soup.find(id="barbarianking-table-3")
+        elif url == "https://clashofclans.fandom.com/wiki/Archer_Queen":
+            table = soup.find(id="archerqueen-table-2")
+        elif url == "https://clashofclans.fandom.com/wiki/Grand_Warden":
+            table = soup.find(id="grandwarden-table-2")
+        elif url == "https://clashofclans.fandom.com/wiki/Royal_Champion":
+            table = soup.find(id="royalchampion-table-2")
+        else:
+            strings_to_check = ["wikitable", "wikitable floatheader row-highlight", "wikitable mode-toggle-mode-1"]
+            table = soup.find(class_=strings_to_check)
+        
+        upgrade_data = basic_data_from_table(table, name)
+    """
+
+
+
+
+
+# Put the raw data csv file name to polish
+filename = 'raw_data_dark_elixir_defence.csv'
+
+with open(filename, 'r') as file:
+    reader = csv.reader(file)
+    all_data = []
+    for row in reader:
+        all_data.append(row)

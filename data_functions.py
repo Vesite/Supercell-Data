@@ -3,26 +3,79 @@ import requests
 from bs4 import BeautifulSoup
 import re
 
+# It's worth noting that the find_all() function returns a list of matching elements,
+# while the find() function returns only the first matching element.
+# If no elements match the given criteria, find_all() returns an empty list, while find() returns None.
+# This is mentioned in tutorialspoint.com.
+
+
+
 def remove_elements(arr_list, position):
     new_list = [arr for arr in arr_list if arr[position] != "0"]
     return new_list
 
+
+
+
 # will give us a list of lists with basic upgrade information about a tower
-def get_upgrade_data(url, name):
+def get_upgrade_data(url, name, tags):
+
     response = requests.get(url)
     soup = BeautifulSoup(response.content, 'html.parser') 
     
-    # find the "table", if it is "None" that means we didn't find the info we are checking for from the url, and it will crash
-    if url == "https://clashofclans.fandom.com/wiki/Town_Hall":
-        tables = soup.find_all('table')
-        if len(tables) >= 2:
-            table = tables[6] # VERY spesific way to do this one url
-    else:
-        strings_to_check = ["wikitable", "wikitable floatheader row-highlight", "wikitable mode-toggle-mode-1"]
-        table = soup.find(class_=strings_to_check)
+    raw_data_table = [] # List of lists (table)
+
+    row_list = soup.find_all("tr") # row_list = All <td> objects in the HTML Code
+    for row in row_list:
+        cells = row.findChildren("td", recursive=False) # Check all the elements in the row (cells)
+        for cell in cells:
+            # Check if any of the cells have (class == "GoldPass bCost")
+            if cell.has_attr("class"):# and ("GoldPass" in cell["class"]):
+                if ('GoldPass' in cell["class"]) and (("rCost" in cell["class"]) or ("bCost" in cell["class"])): # Don't know why it finds nothing here when i put "'GoldPass rCost'"
+                    
+                    # Skip if first element is not level
+                    if not (cells[0].get_text()).isdigit():
+                        continue
+
+                    upg_level = cells[0].get_text()
+
+                    # Skip adding this "row" if we already have that level-value
+                    for temp_row in raw_data_table:
+                        if str(temp_row[2]) == str(upg_level).strip():
+                            print("continued")
+                            continue
+
+                    upg_cost = "-"
+                    upg_time = "-"
+
+                    for cell in cells:
+                        class_value = cell.get('class')
+                        if class_value and 'GoldPass' in class_value:
+                            if 'bCost' in class_value or 'rCost' in class_value:
+                                upg_cost = cell.get_text()
+                            elif 'bTime' in class_value or 'rTime' in class_value:
+                                upg_time = cell.get_text()
+
+                    upg_level = str(upg_level).strip()
+                    upg_cost = str(upg_cost).strip()
+                    upg_time = str(upg_time).strip()
+
+                    row_data = [name, tags, upg_level, upg_cost, upg_time]
+                    raw_data_table.append(row_data)
 
 
 
+
+
+    return raw_data_table
+
+
+    
+    
+
+
+"""
+def basic_data_from_table(table, name):
     upgrade_data = []
 
     rows = table.find_all('tr')
@@ -38,9 +91,9 @@ def get_upgrade_data(url, name):
         for cell in cells:
             class_value = cell.get('class')
             if class_value and 'GoldPass' in class_value:
-                if 'bCost' in class_value:
+                if 'bCost' in class_value or 'rCost' in class_value:
                     upg_cost = cell.get_text()
-                elif 'bTime' in class_value:
+                elif 'bTime' in class_value or 'rTime' in class_value:
                     upg_time = cell.get_text()
 
         upg_level = str(upg_level).strip()
@@ -48,11 +101,9 @@ def get_upgrade_data(url, name):
         upg_time = str(upg_time).strip()
 
         upgrade_data.append([name, upg_level, upg_cost, upg_time])
-
-    upgrade_data = remove_elements(upgrade_data, 1)
     
     return upgrade_data
-
+"""
 
 
 

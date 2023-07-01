@@ -1,0 +1,137 @@
+Barbarian,1,None,None
+Barbarian,2,"20,000",2h
+Barbarian,3,"60,000",5h
+Barbarian,4,"200,000",12h
+Barbarian,5,"650,000",1d
+Barbarian,6,"1,400,000",1d 12h
+Barbarian,7,"2,100,000",2d 12h
+Barbarian,8,"2,800,000",3d
+Barbarian,9,"5,000,000",6d
+Barbarian,10,"14,000,000",13d
+Barbarian,11,"16,000,000",14d
+Archer,1,None,None
+Archer,2,"30,000",3h
+Archer,3,"80,000",6h
+Archer,4,"300,000",12h
+Archer,5,"800,000",1d
+Archer,6,"2,000,000",1d 12h
+Archer,7,"2,500,000",2d 12h
+Archer,8,"3,200,000",3d 12h
+Archer,9,"5,600,000",6d
+Archer,10,"14,500,000",13d
+Archer,11,"16,000,000",14d
+Giant,1,None,None
+Giant,2,"40,000",4h
+Giant,3,"150,000",8h
+Giant,4,"500,000",12h
+Giant,5,"1,200,000",1d
+Giant,6,"2,000,000",2d
+Giant,7,"3,000,000",3d 12h
+Giant,8,"3,500,000",5d 12h
+Giant,9,"5,600,000",8d
+Giant,10,"8,000,000",9d
+Giant,11,"16,500,000",16d
+Goblin,1,None,None
+Goblin,2,"45,000",5h
+Goblin,3,"175,000",9h
+Goblin,4,"500,000",12h
+Goblin,5,"1,200,000",1d
+Goblin,6,"2,000,000",1d 12h
+Goblin,7,"3,000,000",3d 12h
+Goblin,8,"5,600,000",7d
+Goblin,9,"16,000,000",17d
+Wall Breaker,1,None,None
+Wall Breaker,2,"100,000",6h
+Wall Breaker,3,"250,000",12h
+Wall Breaker,4,"600,000",18h
+Wall Breaker,5,"1,200,000",1d
+Wall Breaker,6,"2,500,000",2d 3h
+Wall Breaker,7,"4,200,000",3d 12h
+Wall Breaker,8,"6,500,000",6d 12h
+Wall Breaker,9,"8,000,000",9d
+Wall Breaker,10,"15,200,000",15d
+Wall Breaker,11,"16,500,000",16d
+Balloon,1,None,None
+Balloon,2,"125,000",8h
+Balloon,3,"400,000",12h
+Balloon,4,"800,000",18h
+Balloon,5,"1,500,000",1d
+Balloon,6,"2,750,000",3d 12h
+Balloon,7,"4,500,000",5d 6h
+Balloon,8,"7,000,000",9d
+Balloon,9,"8,500,000",10d
+Balloon,10,"17,000,000",17d
+Wizard,1,None,None
+Wizard,2,"120,000",8h
+Wizard,3,"320,000",12h
+Wizard,4,"620,000",18h
+Wizard,5,"1,200,000",1d
+Wizard,6,"2,200,000",2d
+Wizard,7,"3,500,000",3d 12h
+Wizard,8,"5,000,000",5d 6h
+Wizard,9,"5,800,000",8d
+Wizard,10,"8,500,000",9d
+Wizard,11,"17,200,000",16d
+Healer,1,None,None
+Healer,2,"450,000",12h
+Healer,3,"900,000",1d
+Healer,4,"2,700,000",2d
+Healer,5,"4,200,000",7d
+Healer,6,"8,000,000",8d 12h
+Healer,7,"16,000,000",16d
+Healer,8,"18,000,000",17d
+Dragon,1,None,None
+Dragon,2,"1,000,000",18h
+Dragon,3,"2,000,000",1d 12h
+Dragon,4,"3,000,000",3d
+Dragon,5,"3,800,000",5d 6h
+Dragon,6,"4,900,000",5d 12h
+Dragon,7,"6,300,000",9d
+Dragon,8,"8,800,000",9d 12h
+Dragon,9,"17,500,000",17d
+Dragon,10,"19,500,000",18d
+P.E.K.K:A,1,None,None
+P.E.K.K:A,2,"1,200,000",12h
+P.E.K.K:A,3,"1,800,000",1d
+P.E.K.K:A,4,"2,800,000",2d
+P.E.K.K:A,5,"3,200,000",3d 12h
+P.E.K.K:A,6,"4,200,000",4d 18h
+P.E.K.K:A,7,"5,200,000",6d
+P.E.K.K:A,8,"7,000,000",9d
+P.E.K.K:A,9,"8,500,000",10d
+P.E.K.K:A,10,"18,000,000",16d 12h
+Baby Dragon,1,None,None
+Baby Dragon,2,"2,000,000",2d
+Baby Dragon,3,"2,500,000",3d 12h
+Baby Dragon,4,"3,400,000",5d
+Baby Dragon,5,"4,200,000",6d 6h
+Baby Dragon,6,"5,500,000",7d 12h
+Baby Dragon,7,"7,200,000",8d 12h
+Baby Dragon,8,"16,000,000",15d 18h
+Baby Dragon,9,"18,000,000",16d 12h
+Miner,1,None,None
+Miner,2,"2,500,000",2d 4h
+Miner,3,"3,200,000",3d 12h
+Miner,4,"3,800,000",4d
+Miner,5,"5,000,000",7d
+Miner,6,"5,800,000",8d
+Miner,7,"8,000,000",10d
+Miner,8,"16,500,000",16d
+Miner,9,"18,500,000",17d
+Electro Dragon,1,None,None
+Electro Dragon,2,"6,300,000",5d 12h
+Electro Dragon,3,"7,000,000",9d
+Electro Dragon,4,"9,600,000",10d
+Electro Dragon,5,"18,000,000",17d
+Electro Dragon,6,"20,000,000",18d
+Yeti,1,None,None
+Yeti,2,"7,000,000",7d
+Yeti,3,"9,000,000",10d
+Yeti,4,"17,100,000",17d
+Yeti,5,"19,000,000",18d
+Dragon Rider,1,None,None
+Dragon Rider,2,"9,600,000",9d
+Dragon Rider,3,"16,500,000",16d
+Electro Titan,1,None,None
+Electro Titan,2,"19,500,000",17d 12h
+Electro Titan,3,"20,500,000",18d

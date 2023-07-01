@@ -1,0 +1,78 @@
+Army Camp,1,200,5m
+Army Camp,2,"2,000",15m
+Army Camp,3,"10,000",2h
+Army Camp,4,"100,000",5h
+Army Camp,5,"250,000",8h
+Army Camp,6,"750,000",12h
+Army Camp,7,"1,500,000",2d
+Army Camp,8,"2,500,000",3d
+Army Camp,9,"4,200,000",6d 6h
+Army Camp,10,"5,700,000",8d 18h
+Army Camp,11,"9,600,000",9d 12h
+Army Camp,12,"19,000,000",16d
+Barracks,1,100,10s
+Barracks,2,500,1m
+Barracks,3,"2,500",10m
+Barracks,4,"5,000",1h
+Barracks,5,"20,000",8h
+Barracks,6,"120,000",12h
+Barracks,7,"270,000",18h
+Barracks,8,"800,000",1d
+Barracks,9,"1,200,000",1d 12h
+Barracks,10,"1,700,000",2d 12h
+Barracks,11,"2,600,000",4d
+Barracks,12,"3,700,000",5d 12h
+Barracks,13,"6,500,000",7d 12h
+Barracks,14,"8,000,000",9d
+Barracks,15,"10,000,000",10d 12h
+Barracks,16,"15,000,000",16d
+Dark Barracks,1,"200,000",8h
+Dark Barracks,2,"600,000",1d
+Dark Barracks,3,"1,000,000",1d 12h
+Dark Barracks,4,"1,600,000",2d
+Dark Barracks,5,"2,200,000",3d 12h
+Dark Barracks,6,"2,900,000",4d 12h
+Dark Barracks,7,"4,000,000",6d 12h
+Dark Barracks,8,"7,500,000",8d
+Dark Barracks,9,"9,000,000",10d
+Dark Barracks,10,"13,000,000",13d
+Labratory,1,"5,000",1m
+Labratory,2,"25,000",1h
+Labratory,3,"50,000",2h
+Labratory,4,"100,000",4h
+Labratory,5,"200,000",8h
+Labratory,6,"400,000",16h
+Labratory,7,"800,000",1d
+Labratory,8,"1,300,000",1d 18h
+Labratory,9,"2,100,000",2d 18h
+Labratory,10,"3,800,000",4d
+Labratory,11,"5,500,000",6d
+Labratory,12,"11,500,000",11d 12h
+Labratory,13,"12,500,000",12d
+Spell Factory,1,"150,000",8h
+Spell Factory,2,"300,000",1d
+Spell Factory,3,"600,000",2d
+Spell Factory,4,"1,200,000",3d 12h
+Spell Factory,5,"2,000,000",4d 6h
+Spell Factory,6,"3,500,000",5d
+Spell Factory,7,"9,000,000",9d
+Dark Spell Factory,1,"150,000",6h
+Dark Spell Factory,2,"300,000",18h
+Dark Spell Factory,3,"600,000",2d
+Dark Spell Factory,4,"1,200,000",4d
+Dark Spell Factory,5,"2,500,000",6d
+Workshop,1,"3,000,000",4d
+Workshop,2,"5,000,000",5d
+Workshop,3,"7,000,000",7d
+Workshop,4,"9,000,000",10d
+Workshop,5,"10,000,000",11d
+Workshop,6,"16,500,000",17d
+Workshop,7,"19,000,000",18d
+Pet House,1,"14,000,000",12d 6h
+Pet House,2,"16,500,000",14d 6h
+Pet House,3,"17,500,000",16d
+Pet House,4,"18,500,000",18d
+Pet House,5,"19,750,000",19d
+Pet House,6,"20,000,000",19d 6h
+Pet House,7,"20,250,000",19d 12h
+Pet House,8,"20,500,000",19d 18h

@@ -1,0 +1,46 @@
+Name,Level,Cost,Time,Time (hours),Cost/h
+Lightning Spell,2,50000,4h,4.0,12500
+Lightning Spell,3,100000,8h,8.0,12500
+Lightning Spell,4,200000,12h,12.0,16667
+Lightning Spell,5,600000,1d,24.0,25000
+Lightning Spell,6,1500000,4d,96.0,15625
+Lightning Spell,7,2500000,6d,144.0,17361
+Lightning Spell,8,4200000,7d 6h,174.0,24138
+Lightning Spell,9,6300000,8d,192.0,32812
+Lightning Spell,10,16000000,16d,384.0,41667
+Healing Spell,2,75000,5h,5.0,15000
+Healing Spell,3,150000,10h,10.0,15000
+Healing Spell,4,300000,20h,20.0,15000
+Healing Spell,5,900000,1d 12h,36.0,25000
+Healing Spell,6,1800000,4d,96.0,18750
+Healing Spell,7,3000000,6d,144.0,20833
+Healing Spell,8,8500000,9d 12h,228.0,37281
+Healing Spell,9,17000000,17d,408.0,41667
+Rage Spell,2,400000,12h,12.0,33333
+Rage Spell,3,800000,1d,24.0,33333
+Rage Spell,4,1600000,2d,48.0,33333
+Rage Spell,5,2400000,4d,96.0,25000
+Rage Spell,6,7000000,7d,168.0,41667
+Jump Spell,2,2000000,4d,96.0,20833
+Jump Spell,3,3400000,6d,144.0,23611
+Jump Spell,4,7200000,9d,216.0,33333
+Jump Spell,5,16500000,16d 12h,396.0,41667
+Freeze Spell,2,1200000,1d 12h,36.0,33333
+Freeze Spell,3,1700000,2d 14h,62.0,27419
+Freeze Spell,4,3000000,4d 6h,102.0,29412
+Freeze Spell,5,4200000,6d,144.0,29167
+Freeze Spell,6,6000000,7d 18h,186.0,32258
+Freeze Spell,7,7000000,8d,192.0,36458
+Clone Spell,2,2100000,1d 18h,42.0,50000
+Clone Spell,3,3400000,3d 12h,84.0,40476
+Clone Spell,4,4200000,4d,96.0,43750
+Clone Spell,5,5600000,7d,168.0,33333
+Clone Spell,6,7200000,9d,216.0,33333
+Clone Spell,7,15500000,15d 18h,378.0,41005
+Clone Spell,8,18000000,17d 12h,420.0,42857
+Invisibility Spell,2,5600000,5d 12h,132.0,42424
+Invisibility Spell,3,7500000,7d,168.0,44643
+Invisibility Spell,4,9000000,9d 12h,228.0,39474
+Recall Spell,2,7500000,11d 12h,276.0,27174
+Recall Spell,3,14000000,15d 12h,372.0,37634
+Recall Spell,4,17500000,17d 12h,420.0,41667

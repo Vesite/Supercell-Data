@@ -1,0 +1,24 @@
+Name,Level,Cost,Time,Time (hours),Cost/h
+Wall Wrecker,2,3800000,5d,120.0,31667
+Wall Wrecker,3,5000000,6d,144.0,34722
+Wall Wrecker,4,8500000,9d,216.0,39352
+Wall Wrecker,5,15000000,16d 12h,396.0,37879
+Battle Blimp,2,3800000,5d,120.0,31667
+Battle Blimp,3,5000000,6d,144.0,34722
+Battle Blimp,4,8500000,9d,216.0,39352
+Stone Slammer,2,3800000,5d,120.0,31667
+Stone Slammer,3,5000000,6d,144.0,34722
+Stone Slammer,4,8500000,9d,216.0,39352
+Stone Slammer,5,15000000,16d 12h,396.0,37879
+Siege Barracks,2,5000000,6d,144.0,34722
+Siege Barracks,3,7000000,8d 12h,204.0,34314
+Siege Barracks,4,8500000,9d,216.0,39352
+Log Launcher,2,4800000,6d,144.0,33333
+Log Launcher,3,6500000,9d,216.0,30093
+Log Launcher,4,8500000,9d 12h,228.0,37281
+Flame Flinger,2,7600000,9d 12h,228.0,33333
+Flame Flinger,3,10500000,13d 12h,324.0,32407
+Flame Flinger,4,13300000,15d,360.0,36944
+Battle Drill,2,8000000,10d,240.0,33333
+Battle Drill,3,11000000,14d,336.0,32738
+Battle Drill,4,14000000,16d,384.0,36458

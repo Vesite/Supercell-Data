@@ -1,0 +1,62 @@
+Name,Level,Cost,Time,Time (hours),Cost/h
+Gold Collector,1,150,10s,0.002777777777777778,54000
+Gold Collector,2,300,1m,0.016666666666666666,18000
+Gold Collector,3,700,4m,0.06666666666666667,10500
+Gold Collector,4,1400,10m,0.16666666666666666,8400
+Gold Collector,5,3000,40m,0.6666666666666666,4500
+Gold Collector,6,7000,3h,3.0,2333
+Gold Collector,7,14000,6h,6.0,2333
+Gold Collector,8,28000,8h,8.0,3500
+Gold Collector,9,56000,10h,10.0,5600
+Gold Collector,10,75000,12h,12.0,6250
+Gold Collector,11,100000,16h,16.0,6250
+Gold Collector,12,200000,20h,20.0,10000
+Gold Collector,13,400000,1d 16h,40.0,10000
+Gold Collector,14,800000,3d 8h,80.0,10000
+Gold Collector,15,1200000,6d,144.0,8333
+Gold Storage,1,300,10s,0.002777777777777778,108000
+Gold Storage,2,750,5m,0.08333333333333333,9000
+Gold Storage,3,1500,20m,0.3333333333333333,4500
+Gold Storage,4,3000,1h,1.0,3000
+Gold Storage,5,6000,2h,2.0,3000
+Gold Storage,6,12000,3h,3.0,4000
+Gold Storage,7,25000,4h,4.0,6250
+Gold Storage,8,50000,5h,5.0,10000
+Gold Storage,9,100000,8h,8.0,12500
+Gold Storage,10,250000,12h,12.0,20833
+Gold Storage,11,500000,16h,16.0,31250
+Gold Storage,12,1000000,2d,48.0,20833
+Gold Storage,13,1800000,3d 12h,84.0,21429
+Gold Storage,14,2800000,5d 12h,132.0,21212
+Gold Storage,15,5500000,11d 6h,270.0,20370
+Gold Storage,16,6500000,12d,288.0,22569
+Dark Elixir Drill,1,500000,6h,6.0,83333
+Dark Elixir Drill,2,700000,12h,12.0,58333
+Dark Elixir Drill,3,900000,18h,18.0,50000
+Dark Elixir Drill,4,1200000,1d,24.0,50000
+Dark Elixir Drill,5,1500000,1d 12h,36.0,41667
+Dark Elixir Drill,6,1800000,2d,48.0,37500
+Dark Elixir Drill,7,2400000,3d,72.0,33333
+Dark Elixir Drill,8,3000000,4d,96.0,31250
+Dark Elixir Drill,9,4000000,7d,168.0,23810
+Dark Elixir Storage,1,250000,8h,8.0,31250
+Dark Elixir Storage,2,500000,16h,16.0,31250
+Dark Elixir Storage,3,1000000,1d,24.0,41667
+Dark Elixir Storage,4,1500000,1d 12h,36.0,41667
+Dark Elixir Storage,5,2000000,2d,48.0,41667
+Dark Elixir Storage,6,3000000,3d,72.0,41667
+Dark Elixir Storage,7,3800000,3d 12h,84.0,45238
+Dark Elixir Storage,8,5400000,6d 12h,156.0,34615
+Dark Elixir Storage,9,11500000,14d 6h,342.0,33626
+Dark Elixir Storage,10,12500000,15d,360.0,34722
+Clan Castle,1,10000,-,-,-
+Clan Castle,2,100000,8h,8.0,12500
+Clan Castle,3,800000,12h,12.0,66667
+Clan Castle,4,1200000,1d,24.0,50000
+Clan Castle,5,2500000,2d,48.0,52083
+Clan Castle,6,4200000,5d,120.0,35000
+Clan Castle,7,5500000,6d 6h,150.0,36667
+Clan Castle,8,8000000,9d,216.0,37037
+Clan Castle,9,10000000,11d,264.0,37879
+Clan Castle,10,18000000,19d,456.0,39474
+Clan Castle,11,20000000,20d,480.0,41667

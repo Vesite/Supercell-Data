@@ -1,0 +1,29 @@
+Name,Level,Cost,Time,Time (hours),Cost/h
+Posion Spell,2,12000,8h,8.0,1500
+Posion Spell,3,25000,1d,24.0,1042
+Posion Spell,4,43000,2d 14h,62.0,694
+Posion Spell,5,70000,6d 6h,150.0,467
+Posion Spell,6,110000,7d,168.0,655
+Posion Spell,7,155000,9d 12h,228.0,680
+Posion Spell,8,285000,16d 18h,402.0,709
+Posion Spell,9,320000,17d 12h,420.0,762
+Earthquake Spell,2,15000,18h,18.0,833
+Earthquake Spell,3,30000,1d 12h,36.0,833
+Earthquake Spell,4,51000,4d 6h,102.0,500
+Earthquake Spell,5,84000,7d 18h,186.0,452
+Haste Spell,2,20000,1d 12h,36.0,556
+Haste Spell,3,34000,2d 14h,62.0,548
+Haste Spell,4,60000,5d,120.0,500
+Haste Spell,5,77000,7d 18h,186.0,414
+Skeleton Spell,2,22000,1d 8h,32.0,688
+Skeleton Spell,3,34000,2d 14h,62.0,548
+Skeleton Spell,4,50000,4d 6h,102.0,490
+Skeleton Spell,5,80000,5d 12h,132.0,606
+Skeleton Spell,6,100000,7d,168.0,595
+Skeleton Spell,7,150000,9d,216.0,694
+Skeleton Spell,8,320000,17d 12h,420.0,762
+Bat Spell,2,26000,1d 18h,42.0,619
+Bat Spell,3,51000,3d 12h,84.0,607
+Bat Spell,4,70000,5d 6h,126.0,556
+Bat Spell,5,95000,6d,144.0,660
+Bat Spell,6,330000,18d,432.0,764

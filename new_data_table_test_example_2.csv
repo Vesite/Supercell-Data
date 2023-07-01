@@ -1,0 +1,85 @@
+Name,Tags,Level,Cost,Time,Time (hours),Cost/h
+Cannon,"['Gold', 'Defence']",1,250,10s,0.002777777777777778,90000
+Cannon,"['Gold', 'Defence']",2,1000,2m,0.03333333333333333,30000
+Cannon,"['Gold', 'Defence']",3,4000,10m,0.16666666666666666,24000
+Cannon,"['Gold', 'Defence']",4,16000,45m,0.75,21333
+Cannon,"['Gold', 'Defence']",5,50000,2h,2.0,25000
+Cannon,"['Gold', 'Defence']",6,100000,4h,4.0,25000
+Cannon,"['Gold', 'Defence']",7,200000,8h,8.0,25000
+Cannon,"['Gold', 'Defence']",8,300000,10h,10.0,30000
+Cannon,"['Gold', 'Defence']",9,500000,12h,12.0,41667
+Cannon,"['Gold', 'Defence']",10,700000,18h,18.0,38889
+Cannon,"['Gold', 'Defence']",11,1000000,1d,24.0,41667
+Cannon,"['Gold', 'Defence']",12,1200000,1d 6h,30.0,40000
+Cannon,"['Gold', 'Defence']",13,1700000,2d 6h,54.0,31481
+Cannon,"['Gold', 'Defence']",14,2100000,3d,72.0,29167
+Cannon,"['Gold', 'Defence']",15,3200000,4d 6h,102.0,31373
+Cannon,"['Gold', 'Defence']",16,4400000,5d 12h,132.0,33333
+Cannon,"['Gold', 'Defence']",17,5600000,7d 12h,180.0,31111
+Cannon,"['Gold', 'Defence']",18,6500000,9d,216.0,30093
+Cannon,"['Gold', 'Defence']",19,7800000,9d 12h,228.0,34211
+Cannon,"['Gold', 'Defence']",20,16500000,16d 6h,390.0,42308
+Cannon,"['Gold', 'Defence']",21,18000000,17d,408.0,44118
+Cannon,"['Gold', 'Defence']",1,250,10s,0.002777777777777778,90000
+Cannon,"['Gold', 'Defence']",2,1000,2m,0.03333333333333333,30000
+Cannon,"['Gold', 'Defence']",3,4000,10m,0.16666666666666666,24000
+Cannon,"['Gold', 'Defence']",4,16000,45m,0.75,21333
+Cannon,"['Gold', 'Defence']",5,50000,2h,2.0,25000
+Cannon,"['Gold', 'Defence']",6,100000,4h,4.0,25000
+Cannon,"['Gold', 'Defence']",7,200000,8h,8.0,25000
+Cannon,"['Gold', 'Defence']",8,300000,10h,10.0,30000
+Cannon,"['Gold', 'Defence']",9,500000,12h,12.0,41667
+Cannon,"['Gold', 'Defence']",10,700000,18h,18.0,38889
+Cannon,"['Gold', 'Defence']",11,1000000,1d,24.0,41667
+Cannon,"['Gold', 'Defence']",12,1200000,1d 6h,30.0,40000
+Cannon,"['Gold', 'Defence']",13,1700000,2d 6h,54.0,31481
+Cannon,"['Gold', 'Defence']",14,2100000,3d,72.0,29167
+Cannon,"['Gold', 'Defence']",15,3200000,4d 6h,102.0,31373
+Cannon,"['Gold', 'Defence']",16,4400000,5d 12h,132.0,33333
+Cannon,"['Gold', 'Defence']",17,5600000,7d 12h,180.0,31111
+Cannon,"['Gold', 'Defence']",18,6500000,9d,216.0,30093
+Cannon,"['Gold', 'Defence']",19,7800000,9d 12h,228.0,34211
+Cannon,"['Gold', 'Defence']",20,16500000,16d 6h,390.0,42308
+Cannon,"['Gold', 'Defence']",21,18000000,17d,408.0,44118
+Archer Tower,"['Gold', 'Defence']",1,1000,1m,0.016666666666666666,60000
+Archer Tower,"['Gold', 'Defence']",2,2000,15m,0.25,8000
+Archer Tower,"['Gold', 'Defence']",3,5000,45m,0.75,6667
+Archer Tower,"['Gold', 'Defence']",4,20000,3h,3.0,6667
+Archer Tower,"['Gold', 'Defence']",5,80000,5h,5.0,16000
+Archer Tower,"['Gold', 'Defence']",6,180000,8h,8.0,22500
+Archer Tower,"['Gold', 'Defence']",7,360000,10h,10.0,36000
+Archer Tower,"['Gold', 'Defence']",8,600000,12h,12.0,50000
+Archer Tower,"['Gold', 'Defence']",9,800000,14h,14.0,57143
+Archer Tower,"['Gold', 'Defence']",10,1000000,18h,18.0,55556
+Archer Tower,"['Gold', 'Defence']",11,1200000,1d,24.0,50000
+Archer Tower,"['Gold', 'Defence']",12,1500000,1d 6h,30.0,50000
+Archer Tower,"['Gold', 'Defence']",13,2000000,2d 6h,54.0,37037
+Archer Tower,"['Gold', 'Defence']",14,2500000,3d 12h,84.0,29762
+Archer Tower,"['Gold', 'Defence']",15,3500000,5d,120.0,29167
+Archer Tower,"['Gold', 'Defence']",16,4700000,5d 12h,132.0,35606
+Archer Tower,"['Gold', 'Defence']",17,6100000,7d 12h,180.0,33889
+Archer Tower,"['Gold', 'Defence']",18,6800000,9d,216.0,31481
+Archer Tower,"['Gold', 'Defence']",19,8000000,9d 12h,228.0,35088
+Archer Tower,"['Gold', 'Defence']",20,16500000,16d 6h,390.0,42308
+Archer Tower,"['Gold', 'Defence']",21,18500000,17d,408.0,45343
+Archer Tower,"['Gold', 'Defence']",1,1000,1m,0.016666666666666666,60000
+Archer Tower,"['Gold', 'Defence']",2,2000,15m,0.25,8000
+Archer Tower,"['Gold', 'Defence']",3,5000,45m,0.75,6667
+Archer Tower,"['Gold', 'Defence']",4,20000,3h,3.0,6667
+Archer Tower,"['Gold', 'Defence']",5,80000,5h,5.0,16000
+Archer Tower,"['Gold', 'Defence']",6,180000,8h,8.0,22500
+Archer Tower,"['Gold', 'Defence']",7,360000,10h,10.0,36000
+Archer Tower,"['Gold', 'Defence']",8,600000,12h,12.0,50000
+Archer Tower,"['Gold', 'Defence']",9,800000,14h,14.0,57143
+Archer Tower,"['Gold', 'Defence']",10,1000000,18h,18.0,55556
+Archer Tower,"['Gold', 'Defence']",11,1200000,1d,24.0,50000
+Archer Tower,"['Gold', 'Defence']",12,1500000,1d 6h,30.0,50000
+Archer Tower,"['Gold', 'Defence']",13,2000000,2d 6h,54.0,37037
+Archer Tower,"['Gold', 'Defence']",14,2500000,3d 12h,84.0,29762
+Archer Tower,"['Gold', 'Defence']",15,3500000,5d,120.0,29167
+Archer Tower,"['Gold', 'Defence']",16,4700000,5d 12h,132.0,35606
+Archer Tower,"['Gold', 'Defence']",17,6100000,7d 12h,180.0,33889
+Archer Tower,"['Gold', 'Defence']",18,6800000,9d,216.0,31481
+Archer Tower,"['Gold', 'Defence']",19,8000000,9d 12h,228.0,35088
+Archer Tower,"['Gold', 'Defence']",20,16500000,16d 6h,390.0,42308
+Archer Tower,"['Gold', 'Defence']",21,18500000,17d,408.0,45343

@@ -1,0 +1,28 @@
+Posion Spell,2,"12,000",8h
+Posion Spell,3,"25,000",1d
+Posion Spell,4,"43,000",2d 14h
+Posion Spell,5,"70,000",6d 6h
+Posion Spell,6,"110,000",7d
+Posion Spell,7,"155,000",9d 12h
+Posion Spell,8,"285,000",16d 18h
+Posion Spell,9,"320,000",17d 12h
+Earthquake Spell,2,"15,000",18h
+Earthquake Spell,3,"30,000",1d 12h
+Earthquake Spell,4,"51,000",4d 6h
+Earthquake Spell,5,"84,000",7d 18h
+Haste Spell,2,"20,000",1d 12h
+Haste Spell,3,"34,000",2d 14h
+Haste Spell,4,"60,000",5d
+Haste Spell,5,"77,000",7d 18h
+Skeleton Spell,2,"22,000",1d 8h
+Skeleton Spell,3,"34,000",2d 14h
+Skeleton Spell,4,"50,000",4d 6h
+Skeleton Spell,5,"80,000",5d 12h
+Skeleton Spell,6,"100,000",7d
+Skeleton Spell,7,"150,000",9d
+Skeleton Spell,8,"320,000",17d 12h
+Bat Spell,2,"26,000",1d 18h
+Bat Spell,3,"51,000",3d 12h
+Bat Spell,4,"70,000",5d 6h
+Bat Spell,5,"95,000",6d
+Bat Spell,6,"330,000",18d

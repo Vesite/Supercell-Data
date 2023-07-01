@@ -1,0 +1,45 @@
+Lightning Spell,2,"50,000",4h
+Lightning Spell,3,"100,000",8h
+Lightning Spell,4,"200,000",12h
+Lightning Spell,5,"600,000",1d
+Lightning Spell,6,"1,500,000",4d
+Lightning Spell,7,"2,500,000",6d
+Lightning Spell,8,"4,200,000",7d 6h
+Lightning Spell,9,"6,300,000",8d
+Lightning Spell,10,"16,000,000",16d
+Healing Spell,2,"75,000",5h
+Healing Spell,3,"150,000",10h
+Healing Spell,4,"300,000",20h
+Healing Spell,5,"900,000",1d 12h
+Healing Spell,6,"1,800,000",4d
+Healing Spell,7,"3,000,000",6d
+Healing Spell,8,"8,500,000",9d 12h
+Healing Spell,9,"17,000,000",17d
+Rage Spell,2,"400,000",12h
+Rage Spell,3,"800,000",1d
+Rage Spell,4,"1,600,000",2d
+Rage Spell,5,"2,400,000",4d
+Rage Spell,6,"7,000,000",7d
+Jump Spell,2,"2,000,000",4d
+Jump Spell,3,"3,400,000",6d
+Jump Spell,4,"7,200,000",9d
+Jump Spell,5,"16,500,000",16d 12h
+Freeze Spell,2,"1,200,000",1d 12h
+Freeze Spell,3,"1,700,000",2d 14h
+Freeze Spell,4,"3,000,000",4d 6h
+Freeze Spell,5,"4,200,000",6d
+Freeze Spell,6,"6,000,000",7d 18h
+Freeze Spell,7,"7,000,000",8d
+Clone Spell,2,"2,100,000",1d 18h
+Clone Spell,3,"3,400,000",3d 12h
+Clone Spell,4,"4,200,000",4d
+Clone Spell,5,"5,600,000",7d
+Clone Spell,6,"7,200,000",9d
+Clone Spell,7,"15,500,000",15d 18h
+Clone Spell,8,"18,000,000",17d 12h
+Invisibility Spell,2,"5,600,000",5d 12h
+Invisibility Spell,3,"7,500,000",7d
+Invisibility Spell,4,"9,000,000",9d 12h
+Recall Spell,2,"7,500,000",11d 12h
+Recall Spell,3,"14,000,000",15d 12h
+Recall Spell,4,"17,500,000",17d 12h

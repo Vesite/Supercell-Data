@@ -1,0 +1,59 @@
+Name,Tags,Level,Cost,Time,Time (hours),Cost/h
+Cannon,"['Gold', 'Defence']",1,250,10s,0.002777777777777778,90000
+Cannon,"['Gold', 'Defence']",2,1000,2m,0.03333333333333333,30000
+Cannon,"['Gold', 'Defence']",3,4000,10m,0.16666666666666666,24000
+Cannon,"['Gold', 'Defence']",4,16000,45m,0.75,21333
+Cannon,"['Gold', 'Defence']",5,50000,2h,2.0,25000
+Cannon,"['Gold', 'Defence']",6,100000,4h,4.0,25000
+Cannon,"['Gold', 'Defence']",7,200000,8h,8.0,25000
+Cannon,"['Gold', 'Defence']",8,300000,10h,10.0,30000
+Cannon,"['Gold', 'Defence']",9,500000,12h,12.0,41667
+Cannon,"['Gold', 'Defence']",10,700000,18h,18.0,38889
+Cannon,"['Gold', 'Defence']",11,1000000,1d,24.0,41667
+Cannon,"['Gold', 'Defence']",12,1200000,1d 6h,30.0,40000
+Cannon,"['Gold', 'Defence']",13,1700000,2d 6h,54.0,31481
+Cannon,"['Gold', 'Defence']",14,2100000,3d,72.0,29167
+Cannon,"['Gold', 'Defence']",15,3200000,4d 6h,102.0,31373
+Cannon,"['Gold', 'Defence']",16,4400000,5d 12h,132.0,33333
+Cannon,"['Gold', 'Defence']",17,5600000,7d 12h,180.0,31111
+Cannon,"['Gold', 'Defence']",18,6500000,9d,216.0,30093
+Cannon,"['Gold', 'Defence']",19,7800000,9d 12h,228.0,34211
+Cannon,"['Gold', 'Defence']",20,16500000,16d 6h,390.0,42308
+Cannon,"['Gold', 'Defence']",21,18000000,17d,408.0,44118
+Cannon,"['Gold', 'Defence']",1,250,10s,0.002777777777777778,90000
+Cannon,"['Gold', 'Defence']",2,1000,2m,0.03333333333333333,30000
+Cannon,"['Gold', 'Defence']",3,4000,10m,0.16666666666666666,24000
+Cannon,"['Gold', 'Defence']",4,16000,45m,0.75,21333
+Cannon,"['Gold', 'Defence']",5,50000,2h,2.0,25000
+Cannon,"['Gold', 'Defence']",6,100000,4h,4.0,25000
+Cannon,"['Gold', 'Defence']",7,200000,8h,8.0,25000
+Cannon,"['Gold', 'Defence']",8,300000,10h,10.0,30000
+Cannon,"['Gold', 'Defence']",9,500000,12h,12.0,41667
+Cannon,"['Gold', 'Defence']",10,700000,18h,18.0,38889
+Cannon,"['Gold', 'Defence']",11,1000000,1d,24.0,41667
+Cannon,"['Gold', 'Defence']",12,1200000,1d 6h,30.0,40000
+Cannon,"['Gold', 'Defence']",13,1700000,2d 6h,54.0,31481
+Cannon,"['Gold', 'Defence']",14,2100000,3d,72.0,29167
+Cannon,"['Gold', 'Defence']",15,3200000,4d 6h,102.0,31373
+Cannon,"['Gold', 'Defence']",16,4400000,5d 12h,132.0,33333
+Cannon,"['Gold', 'Defence']",17,5600000,7d 12h,180.0,31111
+Cannon,"['Gold', 'Defence']",18,6500000,9d,216.0,30093
+Cannon,"['Gold', 'Defence']",19,7800000,9d 12h,228.0,34211
+Cannon,"['Gold', 'Defence']",20,16500000,16d 6h,390.0,42308
+Cannon,"['Gold', 'Defence']",21,18000000,17d,408.0,44118
+Cannon,"['Gold', 'Defence']","1,500,000",1500000,2d,48.0,31250
+Elixir Collector,"['Gold', 'Resource', 'Collector']",1,150,10s,0.002777777777777778,54000
+Elixir Collector,"['Gold', 'Resource', 'Collector']",2,300,1m,0.016666666666666666,18000
+Elixir Collector,"['Gold', 'Resource', 'Collector']",3,700,4m,0.06666666666666667,10500
+Elixir Collector,"['Gold', 'Resource', 'Collector']",4,1400,10m,0.16666666666666666,8400
+Elixir Collector,"['Gold', 'Resource', 'Collector']",5,3000,40m,0.6666666666666666,4500
+Elixir Collector,"['Gold', 'Resource', 'Collector']",6,7000,3h,3.0,2333
+Elixir Collector,"['Gold', 'Resource', 'Collector']",7,14000,6h,6.0,2333
+Elixir Collector,"['Gold', 'Resource', 'Collector']",8,28000,8h,8.0,3500
+Elixir Collector,"['Gold', 'Resource', 'Collector']",9,56000,10h,10.0,5600
+Elixir Collector,"['Gold', 'Resource', 'Collector']",10,75000,12h,12.0,6250
+Elixir Collector,"['Gold', 'Resource', 'Collector']",11,100000,16h,16.0,6250
+Elixir Collector,"['Gold', 'Resource', 'Collector']",12,200000,20h,20.0,10000
+Elixir Collector,"['Gold', 'Resource', 'Collector']",13,400000,1d 16h,40.0,10000
+Elixir Collector,"['Gold', 'Resource', 'Collector']",14,800000,3d 8h,80.0,10000
+Elixir Collector,"['Gold', 'Resource', 'Collector']",15,1200000,6d,144.0,8333
