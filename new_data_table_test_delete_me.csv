@@ -1,0 +1,12 @@
+Name,Tags,Level,Cost,Time,Time (hours),Cost/h
+Bomb,"['Gold', 'Trap']",1,400,-,-,-
+Bomb,"['Gold', 'Trap']",2,1000,6m,0.1,10000
+Bomb,"['Gold', 'Trap']",3,10000,2h,2.0,5000
+Bomb,"['Gold', 'Trap']",4,100000,8h,8.0,12500
+Bomb,"['Gold', 'Trap']",5,300000,18h,18.0,16667
+Bomb,"['Gold', 'Trap']",6,500000,1d 12h,36.0,13889
+Bomb,"['Gold', 'Trap']",7,850000,2d 12h,60.0,14167
+Bomb,"['Gold', 'Trap']",8,1400000,2d 18h,66.0,21212
+Bomb,"['Gold', 'Trap']",9,2400000,3d 12h,84.0,28571
+Bomb,"['Gold', 'Trap']",10,5500000,7d 12h,180.0,30556
+Bomb,"['Gold', 'Trap']",11,8000000,8d,192.0,41667

@@ -1,0 +1,397 @@
+Name,Level,Cost (Dark Elixir),Time,Time (hours),Cost/h
+Royal Champion,2,73000,8h,8,9125
+Royal Champion,3,89000,16h,16,5562
+Royal Champion,4,105000,22h,22,4773
+Phoenix,2,230000,3d,72,3194
+Posion Lizard,2,225000,3d,72,3125
+Diggy,2,220000,3d,72,3056
+Frosty,2,215000,3d,72,2986
+Unicorn,2,210000,3d,72,2917
+Royal Champion,5,122000,1d 20h,44,2773
+Archer Queen,2,11000,4h,4,2750
+Phoenix,3,240000,4d,96,2500
+Posion Lizard,3,235000,4d,96,2448
+Diggy,3,230000,4d,96,2396
+Frosty,3,225000,4d,96,2344
+Mighty Yak,2,165000,3d,72,2292
+Unicorn,3,220000,4d,96,2292
+Royal Champion,6,140000,2d 18h,66,2121
+Phoenix,4,250000,5d,120,2083
+Posion Lizard,4,245000,5d,120,2042
+Royal Champion,7,158000,3d 6h,78,2026
+Archer Queen,3,12000,6h,6,2000
+Diggy,4,240000,5d,120,2000
+Phoenix,5,260000,5d 12h,132,1970
+Frosty,4,235000,5d,120,1958
+Posion Lizard,5,255000,5d 12h,132,1932
+Mighty Yak,3,185000,4d,96,1927
+Unicorn,4,230000,5d,120,1917
+Diggy,5,250000,5d 12h,132,1894
+Royal Champion,8,170000,3d 18h,90,1889
+Barbarian King,90,360000,8d,192,1875
+Archer Queen,90,360000,8d,192,1875
+Electro Owl,2,135000,3d,72,1875
+Phoenix,6,270000,6d,144,1875
+Barbarian King,89,358000,8d,192,1865
+Archer Queen,89,358000,8d,192,1865
+Frosty,5,245000,5d 12h,132,1856
+Barbarian King,88,356000,8d,192,1854
+Archer Queen,88,356000,8d,192,1854
+Royal Champion,40,355000,8d,192,1849
+Barbarian King,87,354000,8d,192,1844
+Archer Queen,87,354000,8d,192,1844
+Posion Lizard,6,265000,6d,144,1840
+Royal Champion,39,353000,8d,192,1839
+Barbarian King,86,352000,8d,192,1833
+Archer Queen,86,352000,8d,192,1833
+Royal Champion,38,351000,8d,192,1828
+Barbarian King,85,350000,8d,192,1823
+Archer Queen,85,350000,8d,192,1823
+Royal Champion,37,349000,8d,192,1818
+Unicorn,5,240000,5d 12h,132,1818
+Royal Champion,36,347000,8d,192,1807
+Diggy,6,260000,6d,144,1806
+Archer Queen,84,346000,8d,192,1802
+Barbarian King,84,345000,8d,192,1797
+Royal Champion,35,345000,8d,192,1797
+Phoenix,7,280000,6d 12h,156,1795
+Royal Champion,9,182000,4d 6h,102,1784
+Archer Queen,83,342000,8d,192,1781
+Royal Champion,10,192000,4d 12h,108,1778
+Barbarian King,83,340000,8d,192,1771
+Royal Champion,34,340000,8d,192,1771
+Frosty,6,255000,6d,144,1771
+Posion Lizard,7,275000,6d 12h,156,1763
+Archer Queen,82,338000,8d,192,1760
+Barbarian King,82,335000,8d,192,1745
+Royal Champion,33,335000,8d,192,1745
+Archer Queen,81,334000,8d,192,1740
+Unicorn,6,250000,6d,144,1736
+Diggy,7,270000,6d 12h,156,1731
+Phoenix,8,290000,7d,168,1726
+Barbarian King,81,330000,8d,192,1719
+Royal Champion,32,330000,8d,192,1719
+Mighty Yak,4,205000,5d,120,1708
+Archer Queen,75,297000,7d 6h,174,1707
+Mighty Yak,5,225000,5d 12h,132,1705
+Mighty Yak,6,245000,6d,144,1701
+Frosty,7,265000,6d 12h,156,1699
+Posion Lizard,8,285000,7d,168,1696
+Archer Queen,80,325000,8d,192,1693
+Royal Champion,31,325000,8d,192,1693
+Royal Champion,11,202000,5d,120,1683
+Barbarian King,80,320000,8d,192,1667
+Unicorn,7,260000,6d 12h,156,1667
+Diggy,8,280000,7d,168,1667
+Phoenix,9,300000,7d 12h,180,1667
+Barbarian King,75,289000,7d 6h,174,1661
+Archer Queen,79,319000,8d,192,1661
+Archer Queen,74,288000,7d 6h,174,1655
+Barbarian King,79,315000,8d,192,1641
+Royal Champion,30,315000,8d,192,1641
+Posion Lizard,9,295000,7d 12h,180,1639
+Frosty,8,275000,7d,168,1637
+Archer Queen,78,314000,8d,192,1635
+Mighty Yak,7,255000,6d 12h,156,1635
+Barbarian King,74,284000,7d 6h,174,1632
+Archer Queen,73,283000,7d 6h,174,1626
+Archer Queen,4,13000,8h,8,1625
+Royal Champion,25,282000,7d 6h,174,1621
+Barbarian King,78,310000,8d,192,1615
+Royal Champion,29,310000,8d,192,1615
+Mighty Yak,15,310000,8d,192,1615
+Phoenix,10,310000,8d,192,1615
+Diggy,9,290000,7d 12h,180,1611
+Unicorn,8,270000,7d,168,1607
+Archer Queen,77,308000,8d,192,1604
+Barbarian King,73,279000,7d 6h,174,1603
+Archer Queen,72,278000,7d 6h,174,1598
+Royal Champion,12,211000,5d 12h,132,1598
+L.A.S.S.I,2,115000,3d,72,1597
+Royal Champion,24,277000,7d 6h,174,1592
+Barbarian King,77,305000,8d,192,1589
+Royal Champion,28,305000,8d,192,1589
+Mighty Yak,14,305000,8d,192,1589
+Posion Lizard,10,305000,8d,192,1589
+Royal Champion,20,257000,6d 18h,162,1586
+Frosty,9,285000,7d 12h,180,1583
+Mighty Yak,8,265000,7d,168,1577
+Archer Queen,69,255000,6d 18h,162,1574
+Archer Queen,76,302000,8d,192,1573
+Royal Champion,23,272000,7d 6h,174,1563
+Barbarian King,76,300000,8d,192,1562
+Royal Champion,27,300000,8d,192,1562
+Electro Owl,3,150000,4d,96,1562
+Mighty Yak,13,300000,8d,192,1562
+Diggy,10,300000,8d,192,1562
+Barbarian King,69,252000,6d 18h,162,1556
+Unicorn,9,280000,7d 12h,180,1556
+Barbarian King,72,270000,7d 6h,174,1552
+Royal Champion,19,251000,6d 18h,162,1549
+Archer Queen,71,269000,7d 6h,174,1546
+Royal Champion,26,295000,8d,192,1536
+Mighty Yak,12,295000,8d,192,1536
+Frosty,10,295000,8d,192,1536
+Barbarian King,71,267000,7d 6h,174,1534
+Royal Champion,22,267000,7d 6h,174,1534
+Archer Queen,70,266000,7d 6h,174,1529
+Mighty Yak,9,275000,7d 12h,180,1528
+Archer Queen,68,246000,6d 18h,162,1519
+Royal Champion,18,245000,6d 18h,162,1512
+L.A.S.S.I,15,290000,8d,192,1510
+Mighty Yak,11,290000,8d,192,1510
+Unicorn,10,290000,8d,192,1510
+Royal Champion,21,262000,7d 6h,174,1506
+Barbarian King,2,6000,4h,4,1500
+Barbarian King,68,243000,6d 18h,162,1500
+Barbarian King,70,261000,7d 6h,174,1500
+Archer Queen,5,15000,10h,10,1500
+Royal Champion,13,216000,6d,144,1500
+Posion Spell,2,12000,8h,8,1500
+Mighty Yak,10,285000,8d,192,1484
+Royal Champion,17,239000,6d 18h,162,1475
+Archer Queen,67,237000,6d 18h,162,1463
+Royal Champion,15,228000,6d 12h,156,1462
+Archer Queen,65,219000,6d 6h,150,1460
+L.A.S.S.I,14,280000,8d,192,1458
+Barbarian King,67,234000,6d 18h,162,1444
+Royal Champion,16,234000,6d 18h,162,1444
+Barbarian King,65,216000,6d 6h,150,1440
+Royal Champion,14,222000,6d 12h,156,1423
+Archer Queen,64,213000,6d 6h,150,1420
+Barbarian King,64,211000,6d 6h,150,1407
+Archer Queen,66,228000,6d 18h,162,1407
+L.A.S.S.I,13,270000,8d,192,1406
+Barbarian King,66,225000,6d 18h,162,1389
+Archer Queen,63,208000,6d 6h,150,1387
+Electro Owl,4,165000,5d,120,1375
+Barbarian King,63,206000,6d 6h,150,1373
+Electro Owl,5,180000,5d 12h,132,1364
+L.A.S.S.I,3,130000,4d,96,1354
+L.A.S.S.I,12,260000,8d,192,1354
+Electro Owl,6,195000,6d,144,1354
+Archer Queen,62,203000,6d 6h,150,1353
+Electro Owl,7,210000,6d 12h,156,1346
+Electro Owl,8,225000,7d,168,1339
+Barbarian King,62,200000,6d 6h,150,1333
+Archer Queen,6,16000,12h,12,1333
+Electro Owl,9,240000,7d 12h,180,1333
+Electro Owl,10,255000,8d,192,1328
+Archer Queen,61,198000,6d 6h,150,1320
+L.A.S.S.I,11,250000,8d,192,1302
+Barbarian King,61,193000,6d 6h,150,1287
+Archer Queen,60,192000,6d 6h,150,1280
+Barbarian King,60,187000,6d 6h,150,1247
+Archer Queen,59,186000,6d 6h,150,1240
+L.A.S.S.I,10,235000,8d,192,1224
+L.A.S.S.I,9,220000,7d 12h,180,1222
+L.A.S.S.I,8,205000,7d,168,1220
+L.A.S.S.I,7,190000,6d 12h,156,1218
+L.A.S.S.I,6,175000,6d,144,1215
+Archer Queen,7,17000,14h,14,1214
+L.A.S.S.I,5,160000,5d 12h,132,1212
+L.A.S.S.I,4,145000,5d,120,1208
+Barbarian King,59,180000,6d 6h,150,1200
+Archer Queen,58,179000,6d 6h,150,1193
+Barbarian King,3,7000,6h,6,1167
+Barbarian King,58,172000,6d 6h,150,1147
+Archer Queen,57,172000,6d 6h,150,1147
+Archer Queen,8,18000,16h,16,1125
+Archer Queen,56,166000,6d 6h,150,1107
+Barbarian King,57,165000,6d 6h,150,1100
+Archer Queen,55,159000,6d 6h,150,1060
+Archer Queen,9,19000,18h,18,1056
+Barbarian King,56,158000,6d 6h,150,1053
+Posion Spell,3,25000,1d,24,1042
+Archer Queen,54,154000,6d 6h,150,1027
+Barbarian King,55,151000,6d 6h,150,1007
+Barbarian King,4,8000,8h,8,1000
+Barbarian King,5,10000,10h,10,1000
+Archer Queen,10,20000,20h,20,1000
+Archer Queen,11,22000,22h,22,1000
+Archer Queen,12,24000,1d,24,1000
+Archer Queen,53,148000,6d 6h,150,987
+Barbarian King,54,146000,6d 6h,150,973
+Archer Queen,50,132000,5d 18h,138,957
+Archer Queen,52,143000,6d 6h,150,953
+Barbarian King,53,140000,6d 6h,150,933
+Archer Queen,49,127000,5d 18h,138,920
+Archer Queen,51,138000,6d 6h,150,920
+Barbarian King,6,11000,12h,12,917
+Barbarian King,50,125000,5d 18h,138,906
+Barbarian King,52,135000,6d 6h,150,900
+Archer Queen,48,122000,5d 18h,138,884
+Barbarian King,51,130000,6d 6h,150,867
+Barbarian King,49,119000,5d 18h,138,862
+Barbarian King,7,12000,14h,14,857
+Archer Queen,47,116000,5d 18h,138,841
+Apprentice Warden,2,180000,9d,216,833
+Earthquake Spell,2,15000,18h,18,833
+Earthquake Spell,3,30000,1d 12h,36,833
+Barbarian King,48,114000,5d 18h,138,826
+Ice Golem,7,335000,17d,408,821
+Barbarian King,8,13000,16h,16,812
+Archer Queen,13,26000,1d 8h,32,812
+Witch,6,340000,17d 12h,420,810
+Apprentice Warden,4,340000,17d 12h,420,810
+Golem,12,330000,17d,408,809
+Ice Golem,2,55000,2d 20h,68,809
+Archer Queen,29,58000,3d,72,806
+Archer Queen,46,111000,5d 18h,138,804
+Archer Queen,24,48000,2d 12h,60,800
+Bowler,7,335000,17d 12h,420,798
+Ice Golem,6,305000,16d,384,794
+Barbarian King,12,19000,1d,24,792
+Archer Queen,19,38000,2d,48,792
+Barbarian King,47,109000,5d 18h,138,790
+Monolith,2,360000,19d,456,789
+Bowler,5,170000,9d,216,787
+Valkyrie,10,320000,17d,408,784
+Apprentice Warden,3,315000,16d 18h,402,784
+Minion,11,310000,16d 12h,396,783
+Hog Rider,11,305000,16d 6h,390,782
+Golem,11,300000,16d,384,781
+Barbarian King,9,14000,18h,18,778
+Archer Queen,28,56000,3d,72,778
+Bowler,2,65000,3d 12h,84,774
+Barbarian King,11,17000,22h,22,773
+Archer Queen,45,106000,5d 18h,138,768
+Archer Queen,23,46000,2d 12h,60,767
+Minion,10,285000,15d 12h,372,766
+Archer Queen,44,101000,5d 12h,132,765
+Bat Spell,6,330000,18d,432,764
+Posion Spell,9,320000,17d 12h,420,762
+Skeleton Spell,8,320000,17d 12h,420,762
+Bowler,6,305000,16d 18h,402,759
+Valkyrie,9,295000,16d 6h,390,756
+Barbarian King,10,15000,20h,20,750
+Archer Queen,18,36000,2d,48,750
+Archer Queen,27,54000,3d,72,750
+Barbarian King,46,103000,5d 18h,138,746
+Barbarian King,29,53000,3d,72,736
+Archer Queen,43,97000,5d 12h,132,735
+Bowler,3,88000,5d,120,733
+Archer Queen,22,44000,2d 12h,60,733
+Hog Rider,10,175000,10d,240,729
+Archer Queen,26,52000,3d,72,722
+Archer Queen,34,69000,4d,96,719
+Archer Queen,39,82000,4d 18h,114,719
+Barbarian King,24,43000,2d 12h,60,717
+Barbarian King,44,94000,5d 12h,132,712
+Barbarian King,45,98000,5d 18h,138,710
+Posion Spell,8,285000,16d 18h,402,709
+Ice Golem,3,85000,5d,120,708
+Barbarian King,28,51000,3d,72,708
+Archer Queen,17,34000,2d,48,708
+Archer Queen,42,93000,5d 12h,132,705
+Lava Hound,6,160000,9d 12h,228,702
+Archer Queen,14,28000,1d 16h,40,700
+Archer Queen,21,42000,2d 12h,60,700
+Archer Queen,33,67000,4d,96,698
+Hog Rider,9,150000,9d,216,694
+Bowler,4,125000,7d 12h,180,694
+Monolith,1,300000,18d,432,694
+Archer Queen,25,50000,3d,72,694
+Posion Spell,4,43000,2d 14h,62,694
+Skeleton Spell,7,150000,9d,216,694
+Archer Queen,38,79000,4d 18h,114,693
+Barbarian King,19,33000,2d,48,688
+Skeleton Spell,2,22000,1d 8h,32,688
+Barbarian King,23,41000,2d 12h,60,683
+Barbarian King,27,49000,3d,72,681
+Posion Spell,7,155000,9d 12h,228,680
+Archer Queen,32,65000,4d,96,677
+Archer Queen,37,77000,4d 18h,114,675
+Barbarian King,43,89000,5d 12h,132,674
+Archer Queen,41,89000,5d 12h,132,674
+Golem,10,160000,10d,240,667
+Archer Queen,16,32000,2d,48,667
+Archer Queen,20,40000,2d 12h,60,667
+Bat Spell,5,95000,6d,144,660
+Barbarian King,13,21000,1d 8h,32,656
+Archer Queen,31,63000,4d,96,656
+Valkyrie,7,110000,7d,168,655
+Posion Spell,6,110000,7d,168,655
+Barbarian King,26,47000,3d,72,653
+Ice Golem,5,125000,8d,192,651
+Barbarian King,22,39000,2d 12h,60,650
+Archer Queen,36,74000,4d 18h,114,649
+Valkyrie,8,155000,10d,240,646
+Barbarian King,18,31000,2d,48,646
+Barbarian King,34,62000,4d,96,646
+Barbarian King,42,85000,5d 12h,132,644
+Golem,8,100000,6d 12h,156,641
+Ice Golem,4,100000,6d 12h,156,641
+Barbarian King,39,73000,4d 18h,114,640
+Archer Queen,40,84000,5d 12h,132,636
+Archer Queen,35,72000,4d 18h,114,632
+Minion,4,15000,1d,24,625
+Minion,9,150000,10d,240,625
+Hog Rider,5,30000,2d,48,625
+Barbarian King,25,45000,3d,72,625
+Barbarian King,33,60000,4d,96,625
+Archer Queen,15,30000,2d,48,625
+Archer Queen,30,60000,4d,96,625
+Bat Spell,2,26000,1d 18h,42,619
+Barbarian King,21,37000,2d 12h,60,617
+Barbarian King,32,59000,4d,96,615
+Barbarian King,38,70000,4d 18h,114,614
+Bat Spell,3,51000,3d 12h,84,607
+Barbarian King,41,80000,5d 12h,132,606
+Skeleton Spell,5,80000,5d 12h,132,606
+Headhunter,3,145000,10d,240,604
+Barbarian King,17,29000,2d,48,604
+Witch,3,68000,4d 18h,114,596
+Barbarian King,37,68000,4d 18h,114,596
+Skeleton Spell,6,100000,7d,168,595
+Barbarian King,31,57000,4d,96,594
+Golem,7,77000,5d 12h,132,583
+Lava Hound,2,35000,2d 12h,60,583
+Barbarian King,20,35000,2d 12h,60,583
+Golem,9,125000,9d,216,579
+Witch,5,125000,9d,216,579
+Barbarian King,36,66000,4d 18h,114,579
+Barbarian King,40,76000,5d 12h,132,576
+Barbarian King,14,23000,1d 16h,40,575
+Barbarian King,30,55000,4d,96,573
+Lava Hound,4,85000,6d 6h,150,567
+Hog Rider,8,95000,7d,168,565
+Barbarian King,16,27000,2d,48,562
+Barbarian King,35,64000,4d 18h,114,561
+Hog Rider,7,70000,5d 6h,126,556
+Witch,4,90000,6d 18h,162,556
+Lava Hound,5,120000,9d,216,556
+Haste Spell,2,20000,1d 12h,36,556
+Bat Spell,4,70000,5d 6h,126,556
+Haste Spell,3,34000,2d 14h,62,548
+Skeleton Spell,3,34000,2d 14h,62,548
+Hog Rider,4,16000,1d 6h,30,533
+Headhunter,2,115000,9d,216,532
+Minion,7,63000,5d,120,525
+Minion,5,25000,2d,48,521
+Witch,2,50000,4d,96,521
+Barbarian King,15,25000,2d,48,521
+Hog Rider,6,43000,3d 12h,84,512
+Hog Rider,2,5000,10h,10,500
+Valkyrie,6,63000,5d 6h,126,500
+Earthquake Spell,4,51000,4d 6h,102,500
+Haste Spell,4,60000,5d,120,500
+Lava Hound,3,50000,4d 6h,102,490
+Skeleton Spell,4,50000,4d 6h,102,490
+Posion Spell,5,70000,6d 6h,150,467
+Earthquake Spell,5,84000,7d 18h,186,452
+Hog Rider,3,9000,20h,20,450
+Golem,6,53000,5d,120,442
+Minion,8,95000,9d,216,440
+Minion,3,7000,16h,16,438
+Golem,5,43000,4d 6h,102,422
+Minion,6,35000,3d 12h,84,417
+Haste Spell,5,77000,7d 18h,186,414
+Minion,2,3000,8h,8,375
+Valkyrie,5,38000,4d 6h,102,373
+Valkyrie,4,25000,3d,72,347
+Valkyrie,2,8000,1d,24,333
+Golem,2,10000,1d 6h,30,333
+Golem,3,20000,2d 12h,60,333
+Golem,4,30000,3d 18h,90,333
+Valkyrie,3,12000,2d,48,250

@@ -1,0 +1,404 @@
+Name,Level,Cost,Time,Time (hours),Cost/h
+Minion,2,3000,8h,8.0,375
+Minion,3,7000,16h,16.0,438
+Minion,4,15000,1d,24.0,625
+Minion,5,25000,2d,48.0,521
+Minion,6,35000,3d 12h,84.0,417
+Minion,7,63000,5d,120.0,525
+Minion,8,95000,9d,216.0,440
+Minion,9,150000,10d,240.0,625
+Minion,10,285000,15d 12h,372.0,766
+Minion,11,310000,16d 12h,396.0,783
+Hog Rider,2,5000,10h,10.0,500
+Hog Rider,3,9000,20h,20.0,450
+Hog Rider,4,16000,1d 6h,30.0,533
+Hog Rider,5,30000,2d,48.0,625
+Hog Rider,6,43000,3d 12h,84.0,512
+Hog Rider,7,70000,5d 6h,126.0,556
+Hog Rider,8,95000,7d,168.0,565
+Hog Rider,9,150000,9d,216.0,694
+Hog Rider,10,175000,10d,240.0,729
+Hog Rider,11,305000,16d 6h,390.0,782
+Valkyrie,2,8000,1d,24.0,333
+Valkyrie,3,12000,2d,48.0,250
+Valkyrie,4,25000,3d,72.0,347
+Valkyrie,5,38000,4d 6h,102.0,373
+Valkyrie,6,63000,5d 6h,126.0,500
+Valkyrie,7,110000,7d,168.0,655
+Valkyrie,8,155000,10d,240.0,646
+Valkyrie,9,295000,16d 6h,390.0,756
+Valkyrie,10,320000,17d,408.0,784
+Golem,2,10000,1d 6h,30.0,333
+Golem,3,20000,2d 12h,60.0,333
+Golem,4,30000,3d 18h,90.0,333
+Golem,5,43000,4d 6h,102.0,422
+Golem,6,53000,5d,120.0,442
+Golem,7,77000,5d 12h,132.0,583
+Golem,8,100000,6d 12h,156.0,641
+Golem,9,125000,9d,216.0,579
+Golem,10,160000,10d,240.0,667
+Golem,11,300000,16d,384.0,781
+Golem,12,330000,17d,408.0,809
+Witch,2,50000,4d,96.0,521
+Witch,3,68000,4d 18h,114.0,596
+Witch,4,90000,6d 18h,162.0,556
+Witch,5,125000,9d,216.0,579
+Witch,6,340000,17d 12h,420.0,810
+Lava Hound,2,35000,2d 12h,60.0,583
+Lava Hound,3,50000,4d 6h,102.0,490
+Lava Hound,4,85000,6d 6h,150.0,567
+Lava Hound,5,120000,9d,216.0,556
+Lava Hound,6,160000,9d 12h,228.0,702
+Bowler,2,65000,3d 12h,84.0,774
+Bowler,3,88000,5d,120.0,733
+Bowler,4,125000,7d 12h,180.0,694
+Bowler,5,170000,9d,216.0,787
+Bowler,6,305000,16d 18h,402.0,759
+Bowler,7,335000,17d 12h,420.0,798
+Ice Golem,2,55000,2d 20h,68.0,809
+Ice Golem,3,85000,5d,120.0,708
+Ice Golem,4,100000,6d 12h,156.0,641
+Ice Golem,5,125000,8d,192.0,651
+Ice Golem,6,305000,16d,384.0,794
+Ice Golem,7,335000,17d,408.0,821
+Headhunter,2,115000,9d,216.0,532
+Headhunter,3,145000,10d,240.0,604
+Apprentice Warden,2,180000,9d,216.0,833
+Apprentice Warden,3,315000,16d 18h,402.0,784
+Apprentice Warden,4,340000,17d 12h,420.0,810
+Name,Level,Cost,Time,Time (hours),Cost/h
+Monolith,1,300000,18d,432.0,694
+Monolith,2,360000,19d,456.0,789
+Name,Level,Cost,Time,Time (hours),Cost/h
+Barbarian King,1,5000,-,-,-
+Barbarian King,2,6000,4h,4.0,1500
+Barbarian King,3,7000,6h,6.0,1167
+Barbarian King,4,8000,8h,8.0,1000
+Barbarian King,5,10000,10h,10.0,1000
+Barbarian King,6,11000,12h,12.0,917
+Barbarian King,7,12000,14h,14.0,857
+Barbarian King,8,13000,16h,16.0,812
+Barbarian King,9,14000,18h,18.0,778
+Barbarian King,10,15000,20h,20.0,750
+Barbarian King,11,17000,22h,22.0,773
+Barbarian King,12,19000,1d,24.0,792
+Barbarian King,13,21000,1d 8h,32.0,656
+Barbarian King,14,23000,1d 16h,40.0,575
+Barbarian King,15,25000,2d,48.0,521
+Barbarian King,16,27000,2d,48.0,562
+Barbarian King,17,29000,2d,48.0,604
+Barbarian King,18,31000,2d,48.0,646
+Barbarian King,19,33000,2d,48.0,688
+Barbarian King,20,35000,2d 12h,60.0,583
+Barbarian King,21,37000,2d 12h,60.0,617
+Barbarian King,22,39000,2d 12h,60.0,650
+Barbarian King,23,41000,2d 12h,60.0,683
+Barbarian King,24,43000,2d 12h,60.0,717
+Barbarian King,25,45000,3d,72.0,625
+Barbarian King,26,47000,3d,72.0,653
+Barbarian King,27,49000,3d,72.0,681
+Barbarian King,28,51000,3d,72.0,708
+Barbarian King,29,53000,3d,72.0,736
+Barbarian King,30,55000,4d,96.0,573
+Barbarian King,31,57000,4d,96.0,594
+Barbarian King,32,59000,4d,96.0,615
+Barbarian King,33,60000,4d,96.0,625
+Barbarian King,34,62000,4d,96.0,646
+Barbarian King,35,64000,4d 18h,114.0,561
+Barbarian King,36,66000,4d 18h,114.0,579
+Barbarian King,37,68000,4d 18h,114.0,596
+Barbarian King,38,70000,4d 18h,114.0,614
+Barbarian King,39,73000,4d 18h,114.0,640
+Barbarian King,40,76000,5d 12h,132.0,576
+Barbarian King,41,80000,5d 12h,132.0,606
+Barbarian King,42,85000,5d 12h,132.0,644
+Barbarian King,43,89000,5d 12h,132.0,674
+Barbarian King,44,94000,5d 12h,132.0,712
+Barbarian King,45,98000,5d 18h,138.0,710
+Barbarian King,46,103000,5d 18h,138.0,746
+Barbarian King,47,109000,5d 18h,138.0,790
+Barbarian King,48,114000,5d 18h,138.0,826
+Barbarian King,49,119000,5d 18h,138.0,862
+Barbarian King,50,125000,5d 18h,138.0,906
+Barbarian King,51,130000,6d 6h,150.0,867
+Barbarian King,52,135000,6d 6h,150.0,900
+Barbarian King,53,140000,6d 6h,150.0,933
+Barbarian King,54,146000,6d 6h,150.0,973
+Barbarian King,55,151000,6d 6h,150.0,1007
+Barbarian King,56,158000,6d 6h,150.0,1053
+Barbarian King,57,165000,6d 6h,150.0,1100
+Barbarian King,58,172000,6d 6h,150.0,1147
+Barbarian King,59,180000,6d 6h,150.0,1200
+Barbarian King,60,187000,6d 6h,150.0,1247
+Barbarian King,61,193000,6d 6h,150.0,1287
+Barbarian King,62,200000,6d 6h,150.0,1333
+Barbarian King,63,206000,6d 6h,150.0,1373
+Barbarian King,64,211000,6d 6h,150.0,1407
+Barbarian King,65,216000,6d 6h,150.0,1440
+Barbarian King,66,225000,6d 18h,162.0,1389
+Barbarian King,67,234000,6d 18h,162.0,1444
+Barbarian King,68,243000,6d 18h,162.0,1500
+Barbarian King,69,252000,6d 18h,162.0,1556
+Barbarian King,70,261000,7d 6h,174.0,1500
+Barbarian King,71,267000,7d 6h,174.0,1534
+Barbarian King,72,270000,7d 6h,174.0,1552
+Barbarian King,73,279000,7d 6h,174.0,1603
+Barbarian King,74,284000,7d 6h,174.0,1632
+Barbarian King,75,289000,7d 6h,174.0,1661
+Barbarian King,76,300000,8d,192.0,1562
+Barbarian King,77,305000,8d,192.0,1589
+Barbarian King,78,310000,8d,192.0,1615
+Barbarian King,79,315000,8d,192.0,1641
+Barbarian King,80,320000,8d,192.0,1667
+Barbarian King,81,330000,8d,192.0,1719
+Barbarian King,82,335000,8d,192.0,1745
+Barbarian King,83,340000,8d,192.0,1771
+Barbarian King,84,345000,8d,192.0,1797
+Barbarian King,85,350000,8d,192.0,1823
+Barbarian King,86,352000,8d,192.0,1833
+Barbarian King,87,354000,8d,192.0,1844
+Barbarian King,88,356000,8d,192.0,1854
+Barbarian King,89,358000,8d,192.0,1865
+Barbarian King,90,360000,8d,192.0,1875
+Archer Queen,1,10000,-,-,-
+Archer Queen,2,11000,4h,4.0,2750
+Archer Queen,3,12000,6h,6.0,2000
+Archer Queen,4,13000,8h,8.0,1625
+Archer Queen,5,15000,10h,10.0,1500
+Archer Queen,6,16000,12h,12.0,1333
+Archer Queen,7,17000,14h,14.0,1214
+Archer Queen,8,18000,16h,16.0,1125
+Archer Queen,9,19000,18h,18.0,1056
+Archer Queen,10,20000,20h,20.0,1000
+Archer Queen,11,22000,22h,22.0,1000
+Archer Queen,12,24000,1d,24.0,1000
+Archer Queen,13,26000,1d 8h,32.0,812
+Archer Queen,14,28000,1d 16h,40.0,700
+Archer Queen,15,30000,2d,48.0,625
+Archer Queen,16,32000,2d,48.0,667
+Archer Queen,17,34000,2d,48.0,708
+Archer Queen,18,36000,2d,48.0,750
+Archer Queen,19,38000,2d,48.0,792
+Archer Queen,20,40000,2d 12h,60.0,667
+Archer Queen,21,42000,2d 12h,60.0,700
+Archer Queen,22,44000,2d 12h,60.0,733
+Archer Queen,23,46000,2d 12h,60.0,767
+Archer Queen,24,48000,2d 12h,60.0,800
+Archer Queen,25,50000,3d,72.0,694
+Archer Queen,26,52000,3d,72.0,722
+Archer Queen,27,54000,3d,72.0,750
+Archer Queen,28,56000,3d,72.0,778
+Archer Queen,29,58000,3d,72.0,806
+Archer Queen,30,60000,4d,96.0,625
+Archer Queen,31,63000,4d,96.0,656
+Archer Queen,32,65000,4d,96.0,677
+Archer Queen,33,67000,4d,96.0,698
+Archer Queen,34,69000,4d,96.0,719
+Archer Queen,35,72000,4d 18h,114.0,632
+Archer Queen,36,74000,4d 18h,114.0,649
+Archer Queen,37,77000,4d 18h,114.0,675
+Archer Queen,38,79000,4d 18h,114.0,693
+Archer Queen,39,82000,4d 18h,114.0,719
+Archer Queen,40,84000,5d 12h,132.0,636
+Archer Queen,41,89000,5d 12h,132.0,674
+Archer Queen,42,93000,5d 12h,132.0,705
+Archer Queen,43,97000,5d 12h,132.0,735
+Archer Queen,44,101000,5d 12h,132.0,765
+Archer Queen,45,106000,5d 18h,138.0,768
+Archer Queen,46,111000,5d 18h,138.0,804
+Archer Queen,47,116000,5d 18h,138.0,841
+Archer Queen,48,122000,5d 18h,138.0,884
+Archer Queen,49,127000,5d 18h,138.0,920
+Archer Queen,50,132000,5d 18h,138.0,957
+Archer Queen,51,138000,6d 6h,150.0,920
+Archer Queen,52,143000,6d 6h,150.0,953
+Archer Queen,53,148000,6d 6h,150.0,987
+Archer Queen,54,154000,6d 6h,150.0,1027
+Archer Queen,55,159000,6d 6h,150.0,1060
+Archer Queen,56,166000,6d 6h,150.0,1107
+Archer Queen,57,172000,6d 6h,150.0,1147
+Archer Queen,58,179000,6d 6h,150.0,1193
+Archer Queen,59,186000,6d 6h,150.0,1240
+Archer Queen,60,192000,6d 6h,150.0,1280
+Archer Queen,61,198000,6d 6h,150.0,1320
+Archer Queen,62,203000,6d 6h,150.0,1353
+Archer Queen,63,208000,6d 6h,150.0,1387
+Archer Queen,64,213000,6d 6h,150.0,1420
+Archer Queen,65,219000,6d 6h,150.0,1460
+Archer Queen,66,228000,6d 18h,162.0,1407
+Archer Queen,67,237000,6d 18h,162.0,1463
+Archer Queen,68,246000,6d 18h,162.0,1519
+Archer Queen,69,255000,6d 18h,162.0,1574
+Archer Queen,70,266000,7d 6h,174.0,1529
+Archer Queen,71,269000,7d 6h,174.0,1546
+Archer Queen,72,278000,7d 6h,174.0,1598
+Archer Queen,73,283000,7d 6h,174.0,1626
+Archer Queen,74,288000,7d 6h,174.0,1655
+Archer Queen,75,297000,7d 6h,174.0,1707
+Archer Queen,76,302000,8d,192.0,1573
+Archer Queen,77,308000,8d,192.0,1604
+Archer Queen,78,314000,8d,192.0,1635
+Archer Queen,79,319000,8d,192.0,1661
+Archer Queen,80,325000,8d,192.0,1693
+Archer Queen,81,334000,8d,192.0,1740
+Archer Queen,82,338000,8d,192.0,1760
+Archer Queen,83,342000,8d,192.0,1781
+Archer Queen,84,346000,8d,192.0,1802
+Archer Queen,85,350000,8d,192.0,1823
+Archer Queen,86,352000,8d,192.0,1833
+Archer Queen,87,354000,8d,192.0,1844
+Archer Queen,88,356000,8d,192.0,1854
+Archer Queen,89,358000,8d,192.0,1865
+Archer Queen,90,360000,8d,192.0,1875
+Royal Champion,1,60000,-,-,-
+Royal Champion,2,73000,8h,8.0,9125
+Royal Champion,3,89000,16h,16.0,5562
+Royal Champion,4,105000,22h,22.0,4773
+Royal Champion,5,122000,1d 20h,44.0,2773
+Royal Champion,6,140000,2d 18h,66.0,2121
+Royal Champion,7,158000,3d 6h,78.0,2026
+Royal Champion,8,170000,3d 18h,90.0,1889
+Royal Champion,9,182000,4d 6h,102.0,1784
+Royal Champion,10,192000,4d 12h,108.0,1778
+Royal Champion,11,202000,5d,120.0,1683
+Royal Champion,12,211000,5d 12h,132.0,1598
+Royal Champion,13,216000,6d,144.0,1500
+Royal Champion,14,222000,6d 12h,156.0,1423
+Royal Champion,15,228000,6d 12h,156.0,1462
+Royal Champion,16,234000,6d 18h,162.0,1444
+Royal Champion,17,239000,6d 18h,162.0,1475
+Royal Champion,18,245000,6d 18h,162.0,1512
+Royal Champion,19,251000,6d 18h,162.0,1549
+Royal Champion,20,257000,6d 18h,162.0,1586
+Royal Champion,21,262000,7d 6h,174.0,1506
+Royal Champion,22,267000,7d 6h,174.0,1534
+Royal Champion,23,272000,7d 6h,174.0,1563
+Royal Champion,24,277000,7d 6h,174.0,1592
+Royal Champion,25,282000,7d 6h,174.0,1621
+Royal Champion,26,295000,8d,192.0,1536
+Royal Champion,27,300000,8d,192.0,1562
+Royal Champion,28,305000,8d,192.0,1589
+Royal Champion,29,310000,8d,192.0,1615
+Royal Champion,30,315000,8d,192.0,1641
+Royal Champion,31,325000,8d,192.0,1693
+Royal Champion,32,330000,8d,192.0,1719
+Royal Champion,33,335000,8d,192.0,1745
+Royal Champion,34,340000,8d,192.0,1771
+Royal Champion,35,345000,8d,192.0,1797
+Royal Champion,36,347000,8d,192.0,1807
+Royal Champion,37,349000,8d,192.0,1818
+Royal Champion,38,351000,8d,192.0,1828
+Royal Champion,39,353000,8d,192.0,1839
+Royal Champion,40,355000,8d,192.0,1849
+Name,Level,Cost,Time,Time (hours),Cost/h
+L.A.S.S.I,2,115000,3d,72.0,1597
+L.A.S.S.I,3,130000,4d,96.0,1354
+L.A.S.S.I,4,145000,5d,120.0,1208
+L.A.S.S.I,5,160000,5d 12h,132.0,1212
+L.A.S.S.I,6,175000,6d,144.0,1215
+L.A.S.S.I,7,190000,6d 12h,156.0,1218
+L.A.S.S.I,8,205000,7d,168.0,1220
+L.A.S.S.I,9,220000,7d 12h,180.0,1222
+L.A.S.S.I,10,235000,8d,192.0,1224
+L.A.S.S.I,11,250000,8d,192.0,1302
+L.A.S.S.I,12,260000,8d,192.0,1354
+L.A.S.S.I,13,270000,8d,192.0,1406
+L.A.S.S.I,14,280000,8d,192.0,1458
+L.A.S.S.I,15,290000,8d,192.0,1510
+Electro Owl,2,135000,3d,72.0,1875
+Electro Owl,3,150000,4d,96.0,1562
+Electro Owl,4,165000,5d,120.0,1375
+Electro Owl,5,180000,5d 12h,132.0,1364
+Electro Owl,6,195000,6d,144.0,1354
+Electro Owl,7,210000,6d 12h,156.0,1346
+Electro Owl,8,225000,7d,168.0,1339
+Electro Owl,9,240000,7d 12h,180.0,1333
+Electro Owl,10,255000,8d,192.0,1328
+Mighty Yak,2,165000,3d,72.0,2292
+Mighty Yak,3,185000,4d,96.0,1927
+Mighty Yak,4,205000,5d,120.0,1708
+Mighty Yak,5,225000,5d 12h,132.0,1705
+Mighty Yak,6,245000,6d,144.0,1701
+Mighty Yak,7,255000,6d 12h,156.0,1635
+Mighty Yak,8,265000,7d,168.0,1577
+Mighty Yak,9,275000,7d 12h,180.0,1528
+Mighty Yak,10,285000,8d,192.0,1484
+Mighty Yak,11,290000,8d,192.0,1510
+Mighty Yak,12,295000,8d,192.0,1536
+Mighty Yak,13,300000,8d,192.0,1562
+Mighty Yak,14,305000,8d,192.0,1589
+Mighty Yak,15,310000,8d,192.0,1615
+Unicorn,2,210000,3d,72.0,2917
+Unicorn,3,220000,4d,96.0,2292
+Unicorn,4,230000,5d,120.0,1917
+Unicorn,5,240000,5d 12h,132.0,1818
+Unicorn,6,250000,6d,144.0,1736
+Unicorn,7,260000,6d 12h,156.0,1667
+Unicorn,8,270000,7d,168.0,1607
+Unicorn,9,280000,7d 12h,180.0,1556
+Unicorn,10,290000,8d,192.0,1510
+Frosty,2,215000,3d,72.0,2986
+Frosty,3,225000,4d,96.0,2344
+Frosty,4,235000,5d,120.0,1958
+Frosty,5,245000,5d 12h,132.0,1856
+Frosty,6,255000,6d,144.0,1771
+Frosty,7,265000,6d 12h,156.0,1699
+Frosty,8,275000,7d,168.0,1637
+Frosty,9,285000,7d 12h,180.0,1583
+Frosty,10,295000,8d,192.0,1536
+Diggy,2,220000,3d,72.0,3056
+Diggy,3,230000,4d,96.0,2396
+Diggy,4,240000,5d,120.0,2000
+Diggy,5,250000,5d 12h,132.0,1894
+Diggy,6,260000,6d,144.0,1806
+Diggy,7,270000,6d 12h,156.0,1731
+Diggy,8,280000,7d,168.0,1667
+Diggy,9,290000,7d 12h,180.0,1611
+Diggy,10,300000,8d,192.0,1562
+Posion Lizard,2,225000,3d,72.0,3125
+Posion Lizard,3,235000,4d,96.0,2448
+Posion Lizard,4,245000,5d,120.0,2042
+Posion Lizard,5,255000,5d 12h,132.0,1932
+Posion Lizard,6,265000,6d,144.0,1840
+Posion Lizard,7,275000,6d 12h,156.0,1763
+Posion Lizard,8,285000,7d,168.0,1696
+Posion Lizard,9,295000,7d 12h,180.0,1639
+Posion Lizard,10,305000,8d,192.0,1589
+Phoenix,2,230000,3d,72.0,3194
+Phoenix,3,240000,4d,96.0,2500
+Phoenix,4,250000,5d,120.0,2083
+Phoenix,5,260000,5d 12h,132.0,1970
+Phoenix,6,270000,6d,144.0,1875
+Phoenix,7,280000,6d 12h,156.0,1795
+Phoenix,8,290000,7d,168.0,1726
+Phoenix,9,300000,7d 12h,180.0,1667
+Phoenix,10,310000,8d,192.0,1615
+Name,Level,Cost,Time,Time (hours),Cost/h
+Posion Spell,2,12000,8h,8.0,1500
+Posion Spell,3,25000,1d,24.0,1042
+Posion Spell,4,43000,2d 14h,62.0,694
+Posion Spell,5,70000,6d 6h,150.0,467
+Posion Spell,6,110000,7d,168.0,655
+Posion Spell,7,155000,9d 12h,228.0,680
+Posion Spell,8,285000,16d 18h,402.0,709
+Posion Spell,9,320000,17d 12h,420.0,762
+Earthquake Spell,2,15000,18h,18.0,833
+Earthquake Spell,3,30000,1d 12h,36.0,833
+Earthquake Spell,4,51000,4d 6h,102.0,500
+Earthquake Spell,5,84000,7d 18h,186.0,452
+Haste Spell,2,20000,1d 12h,36.0,556
+Haste Spell,3,34000,2d 14h,62.0,548
+Haste Spell,4,60000,5d,120.0,500
+Haste Spell,5,77000,7d 18h,186.0,414
+Skeleton Spell,2,22000,1d 8h,32.0,688
+Skeleton Spell,3,34000,2d 14h,62.0,548
+Skeleton Spell,4,50000,4d 6h,102.0,490
+Skeleton Spell,5,80000,5d 12h,132.0,606
+Skeleton Spell,6,100000,7d,168.0,595
+Skeleton Spell,7,150000,9d,216.0,694
+Skeleton Spell,8,320000,17d 12h,420.0,762
+Bat Spell,2,26000,1d 18h,42.0,619
+Bat Spell,3,51000,3d 12h,84.0,607
+Bat Spell,4,70000,5d 6h,126.0,556
+Bat Spell,5,95000,6d,144.0,660
+Bat Spell,6,330000,18d,432.0,764

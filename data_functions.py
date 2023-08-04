@@ -34,16 +34,22 @@ def get_upgrade_data(url, name, tags):
                 if ('GoldPass' in cell["class"]) and (("rCost" in cell["class"]) or ("bCost" in cell["class"])): # Don't know why it finds nothing here when i put "'GoldPass rCost'"
                     
                     # Skip if first element is not level
-                    if not (cells[0].get_text()).isdigit():
+                    first_value = (cells[0].get_text()).strip()
+                    if not (first_value.isdigit()):
+                        print(cells[0].get_text())
                         continue
 
                     upg_level = cells[0].get_text()
 
                     # Skip adding this "row" if we already have that level-value
+                    do_continue = False
                     for temp_row in raw_data_table:
                         if str(temp_row[2]) == str(upg_level).strip():
-                            print("continued")
-                            continue
+                            do_continue = True # I want this to skip the next loop one step above this one
+
+                    if do_continue:
+                        print("continued")
+                        continue
 
                     upg_cost = "-"
                     upg_time = "-"
@@ -56,9 +62,9 @@ def get_upgrade_data(url, name, tags):
                             elif 'bTime' in class_value or 'rTime' in class_value:
                                 upg_time = cell.get_text()
 
-                    upg_level = str(upg_level).strip()
-                    upg_cost = str(upg_cost).strip()
-                    upg_time = str(upg_time).strip()
+                    upg_level = upg_level.strip()
+                    upg_cost = upg_cost.strip()
+                    upg_time = upg_time.strip()
 
                     row_data = [name, tags, upg_level, upg_cost, upg_time]
                     raw_data_table.append(row_data)
